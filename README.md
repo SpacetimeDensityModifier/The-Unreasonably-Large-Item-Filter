@@ -1,12 +1,19 @@
 # The-Unreasonably-Large-Item-Filter
-# (It's an Item Filter for Path of Exile)#
+# (It's an Item Filter for Path of Exile)##
 
-### If you do not know how to install an Item Filter for Path of Exile (PoE): 
-## 1. Next, click the dropdown for "Save as Type" and then select All Files. 
-## 2. Add .filter to the name (so it's TULIF.filter)
-## 3. Click Save. 
-## 4. Place the new .filter file in Documents>My Games>Path of Exile on your computer. 
-## 5. Finally, enter PoE, open Options, go to UI, scroll all the way down... and select TULIF from the Item Filter dropdown. Enjoy!###
+## If you do not know how to install an Item Filter for Path of Exile (PoE): 
+
+## 1. First, extract TULIF_(version).filter from the .zip.
+## 2. Place the new .filter file in Documents>My Games>Path of Exile on your computer. 
+## 3. Finally, enter PoE, open Options, go to UI, scroll all the way down... and select TULIF from the Item Filter dropdown. (You may have to click reload for it to show up) Enjoy!
+
+## If the filter does not show up in game, try the following: 
+## 1. Open TULIF, click File>Save As.
+## 2. Click the dropdown for "Save as Type" and then select All Files. 
+## 3. Make sure the name has .filter on the end (so it's TULIF.filter).
+## 4. Click Save. 
+## 5. Place the new .filter file in Documents>My Games>Path of Exile on your computer. 
+## 6. Finally, enter PoE, open Options, go to UI, scroll all the way down... and select TULIF from the Item Filter dropdown. (You may have to click reload for it to show up) Enjoy!
 
 ###TULIF filter provides an easy to understand, comprehensive experience that is as useful for noobs (and actually helps them to learn the game) as it is for frequent (and highly experienced) players. ###
 
