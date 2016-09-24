@@ -60,14 +60,15 @@ Show
     SetBackgroundColor 90 30 140
 	SetFontSize 32
 
+
+
 Show
-    Class Gem
-    BaseType "Empower" "Enlighten" "Enhance" "Portal" "Added Chaos" "Detonate Mines"
-    Quality > 0
-   	SetBorderColor 150 200 240
-	SetBackgroundColor 200 200 200
-	SetTextColor 0 0 0
-	SetFontSize 28
+   Class Gem
+    BaseType "Vaal"
+Quality > 0
+    SetBorderColor 150 200 240
+    SetBackgroundColor 60 20 30
+    SetFontSize 26
 
 Show
    Class Gem
@@ -76,18 +77,42 @@ Show
     SetFontSize 26
 
 Show
+    Class Gem
+    BaseType "Empower" "Enlighten" "Enhance" "Portal" "Added Chaos" "Detonate Mines"
+    Quality > 0
+   	SetBorderColor 150 200 240
+	SetBackgroundColor 200 200 200 200
+	SetTextColor 0 0 0
+	SetFontSize 28
+
+Show
+    Class Gem
+    BaseType "Empower" "Enlighten" "Enhance" "Portal" "Added Chaos" "Detonate Mines"
+	SetBackgroundColor 200 200 200 200
+	SetTextColor 0 0 0
+	SetFontSize 28
+
+
+Show
+   Class Gem
+   BaseType Support
+   Quality > 0
+    SetBorderColor 150 200 240
+    SetBackgroundColor 0 30 70
+    SetFontSize 26
+
+Show
+   Class Gem
+BaseType Support
+	SetFontSize 24
+    	SetBackgroundColor 0 30 70
+
+Show
    Class Gem
    Quality > 0
     SetBorderColor 150 200 240
     SetBackgroundColor 0 30 30
     SetFontSize 26
-
-Show
-    Class Gem
-    BaseType "Empower" "Enlighten" "Enhance" "Portal" "Added Chaos" "Detonate Mines"
-	SetBackgroundColor 200 200 200
-	SetTextColor 0 0 0
-	SetFontSize 28
 
 Show
    Class Gem
