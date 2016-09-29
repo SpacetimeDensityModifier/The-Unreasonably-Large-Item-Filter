@@ -57,9 +57,24 @@ Show
    
 Show
    Class Jewel
+BaseType Viridian
+SetBorderColor 20 150 20
     SetBackgroundColor 90 30 140
 	SetFontSize 32
 
+Show
+   Class Jewel
+BaseType Cobalt
+SetBorderColor 50 50 220
+    SetBackgroundColor 90 30 140
+	SetFontSize 32
+
+Show
+   Class Jewel
+BaseType Crimson
+SetBorderColor 220 20 20
+    SetBackgroundColor 90 30 140
+	SetFontSize 32
 
 
 Show
