@@ -13758,23 +13758,6 @@ SetFontSize 22
 
 #############END WARBANDS MODS#############
 
-##CHAOS + REGAL###
-
-Show # Strict (Change Show to Hide if you only want top tier items shown)
-   Rarity Rare
-   ItemLevel >= 75 
-	SetBorderColor 250 40 210
-	SetFontSize 28
-
-Show # Strict (Change Show to Hide if you only want top tier items shown)
-   Rarity Rare
-   ItemLevel >= 60 
-   ItemLevel <= 74
-	SetBorderColor 240 230 30
-	SetFontSize 28
-
-###END CHAOS + REGAL###
-
 ###JEWELLERY###
 
 
@@ -13790,6 +13773,23 @@ Show
 Class Ring Amulet Belt Quiver
 SetBackgroundColor 40 90 80  ##BEST FOR CRAFTING###    
 SetFontSize 26
+
+##CHAOS + REGAL###
+
+Show # Strict (Change Show to Hide if you only want top tier items shown)
+   Rarity Rare
+   ItemLevel >= 75 
+   	SetBorderColor 250 40 210
+	SetFontSize 28
+
+Show # Strict (Change Show to Hide if you only want top tier items shown)
+   Rarity Rare
+   ItemLevel >= 60 
+   ItemLevel <= 74
+	SetBorderColor 240 230 30
+	SetFontSize 28
+
+###END CHAOS + REGAL###
 
 Show
     Class Ring Amulet Belt Quiver
