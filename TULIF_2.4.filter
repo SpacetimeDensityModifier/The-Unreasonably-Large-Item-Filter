@@ -152,6 +152,48 @@ Show
     SetBackgroundColor 60 10 80
     SetFontSize 38
 
+######WARBAND MAPS#######
+
+#REDBLADE#
+
+Show
+    Class Map
+    BaseType "Beacon"
+    SetFontSize 38
+   SetBackgroundColor 60 0 0
+SetBorderColor 175 30 30
+SetFontSize 22
+
+#BRINEROT#
+
+Show
+    Class Map
+    BaseType "Shipyard"
+       SetFontSize 38
+    SetBackgroundColor 60 0 0
+SetBorderColor 70 70 175
+SetFontSize 22
+
+#MUTEWIND#
+Show
+    Class Map
+    BaseType "Sulphur Wastes"
+    SetFontSize 38
+    SetBackgroundColor 60 0 0
+SetBorderColor 25 150 90
+SetFontSize 22
+
+#RENEGADE#
+
+Show
+    Class Map
+    BaseType "Overgrown Ruin"
+    SetFontSize 38
+    SetBorderColor 255 0 220
+    SetBackgroundColor 60 0 0
+
+#############END WARBANDS MAPS#############
+
 Show
    Class Map
    Rarity Unique
@@ -13725,13 +13767,13 @@ SetFontSize 22
 
 ##CHAOS + REGAL###
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Rarity Rare
    ItemLevel >= 75 
 	SetBorderColor 250 40 210
 	SetFontSize 28
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Rarity Rare
    ItemLevel >= 60 
    ItemLevel <= 74
@@ -13806,10 +13848,12 @@ SetFontSize 20
 SetBackgroundColor 20 0 0 210
 SetBorderColor 40 0 0
 
-Show
+Hide # Minimize junk instead of hiding (if "Show")
 Rarity Rare
-SetFontSize 24
-SetBorderColor 0 0 0
+ItemLevel < 84
+SetFontSize 22
+SetBackgroundColor 40 0 0 210
+SetBorderColor 40 0 0
 
 Hide # Minimize junk instead of hiding (if "Show")
 Rarity Magic
