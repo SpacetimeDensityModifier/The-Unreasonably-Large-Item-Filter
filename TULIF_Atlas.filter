@@ -13758,9 +13758,6 @@ SetFontSize 22
 
 #############END WARBANDS MODS#############
 
-###JEWELLERY###
-
-
 Show
    BaseType "Talisman"
 	SetBorderColor 50 180 100
@@ -13773,6 +13770,14 @@ Show
 Class Ring Amulet Belt Quiver
 SetBackgroundColor 40 90 80  ##BEST FOR CRAFTING###    
 SetFontSize 26
+
+Show
+Rarity Rare
+Class Dagger Wand
+ItemLevel > 67
+SetFontSize 26
+SetBorderColor 120 220 120 150
+SetBackgroundColor 0 0 60
 
 ##CHAOS + REGAL###
 
@@ -13798,7 +13803,7 @@ Show
 	SetBorderColor 90 90 90
     	SetBackgroundColor 0 0 40 220
     	SetFontSize 26   
-	
+
 Show
     Class Ring Amulet Belt Quiver
     Rarity Rare
@@ -13827,16 +13832,6 @@ Hide
 	SetBorderColor 90 90 90
             	SetBackgroundColor 0 0 40
     	SetFontSize 24    
-
-###END JEWELLERY###
-
-Show
-Rarity Rare
-Class Dagger Wand
-ItemLevel > 67
-SetFontSize 26
-SetBorderColor 0 120 0 150
-SetBackgroundColor 0 0 0 120
 
 Show
 Rarity Magic
