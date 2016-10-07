@@ -64,21 +64,21 @@ Show
 BaseType Viridian
 SetBorderColor 20 150 20
     SetBackgroundColor 90 30 140
-	SetFontSize 32
+	SetFontSize 30
 
 Show
    Class Jewel
 BaseType Cobalt
 SetBorderColor 50 50 220
     SetBackgroundColor 90 30 140
-	SetFontSize 32
+	SetFontSize 30
 
 Show
    Class Jewel
 BaseType Crimson
 SetBorderColor 220 20 20
     SetBackgroundColor 90 30 140
-	SetFontSize 32
+	SetFontSize 30
 
 
 Show
@@ -163,7 +163,7 @@ Show
    Class Labyrinth
 	SetBorderColor 250 190 60
 	SetBackgroundColor 130 20 50
-    SetFontSize 32
+    SetFontSize 30
 
 
 ###########END IMPORTANT THINGS################
@@ -266,7 +266,7 @@ Show
 
 Show
    Class Map 
-    SetFontSize 32
+    SetFontSize 30
 
 #########MAPS END###############
 
@@ -371,7 +371,7 @@ Show
     	SetBackgroundColor 255 230 230
 	SetTextColor 200 20 20
 	PlayAlertSound 1 300
-	SetFontSize 32
+	SetFontSize 30
 
 Show
    BaseType "Regal Orb"
@@ -379,7 +379,7 @@ Show
     	SetBackgroundColor 205 205 255
 	PlayAlertSound 1 200
     	SetTextColor 0 0 255
-	SetFontSize 32
+	SetFontSize 30
 
 Show
    BaseType "Divine Orb"
@@ -550,7 +550,7 @@ Show
 
 Show
     Rarity Unique
-    SetFontSize 32
+    SetFontSize 30
     Sockets = 6
     PlayAlertSound 2 300
     SetBorderColor 110 180 180
@@ -558,7 +558,7 @@ Show
 
 Show
     Rarity Unique
-    SetFontSize 32
+    SetFontSize 30
     PlayAlertSound 2 250
     SetBorderColor 90 60 10
     SetBackgroundColor 20 10 0
@@ -2128,7 +2128,7 @@ DropLevel >= 62
 BaseType "Astral Plate" "Zodiac Leather" "Occultist's Vestment" "General's Brigandine" "Saint's Hauberk"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -2138,7 +2138,7 @@ DropLevel >= 65
 BaseType "Blood Raiment"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Varnished Coat"##
 
@@ -2152,7 +2152,7 @@ DropLevel >= 68
 BaseType "Sadist Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Blood Raiment"##
 
@@ -2165,7 +2165,7 @@ DropLevel >= 68
 BaseType "Glorious Plate" "Assassin's Garb" "Vaal Regalia" "Triumphant Lamellar" "Saintly Chainmail" "Carnal Armour"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Sadist Garb"##
 
@@ -2179,7 +2179,7 @@ BaseType "Sacrificial Garb"
 SetBorderColor 0 180 0
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 
 ##########END BODY ARMOUR BY DROP TIER##########
@@ -2199,7 +2199,7 @@ DropLevel >= 61
 BaseType "Assassin's Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES##
 
@@ -2210,7 +2210,7 @@ DropLevel >= 64
 BaseType "Crusader Boots" "Dragonscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -2221,7 +2221,7 @@ DropLevel >= 67
 BaseType "Sorcerer Boots" "Titan Greaves" "Slink Boots" "Murder Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ########END BOOTS BY DROP TIER############
 
@@ -2239,7 +2239,7 @@ DropLevel >= 66
 BaseType "Crusader Gloves" "Dragonscale Gauntlets" "Murder Mitts"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210
-SetFontSize 32
+SetFontSize 30
 
 #8#
 Show
@@ -2249,7 +2249,7 @@ DropLevel >= 69
 BaseType "Titan Gauntlets" "Sorcerer Gloves" "Slink Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END GLOVES BY DROP TIER#######
 
@@ -2268,7 +2268,7 @@ DropLevel >= 60
 BaseType "Pig-Faced Bascinet" "Prophet Crown" "Vaal Mask"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -2281,7 +2281,7 @@ DropLevel >= 67
 BaseType "Nightmare Bascinet" "Deicide Mask" "Praetor Crown" "Hubris Circlet" "Lion Pelt"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -2292,7 +2292,7 @@ DropLevel >= 69
 BaseType "Eternal Burgonet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #######END HELMETS BY DROP TIER#######
 
@@ -2309,7 +2309,7 @@ DropLevel >= 58
 BaseType "Fossilised Spirit Shield" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -2319,7 +2319,7 @@ DropLevel >= 68
 BaseType "Archon Kite Shield" "Elegant Round Shield" "Supreme Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 Show
@@ -2329,7 +2329,7 @@ DropLevel >= 61
 BaseType "Vaal Spirit Shield" "Vaal Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 Show
@@ -2339,7 +2339,7 @@ DropLevel >= 64
 BaseType "Ezomyte Tower Shield" "Harmonic Spirit Shield" "Crusader Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -2351,7 +2351,7 @@ DropLevel >= 67
 BaseType "Colossal Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -2360,7 +2360,7 @@ Rarity Rare
     BaseType "Titanium Spirit Shield" "Imperial Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 Show
@@ -2370,7 +2370,7 @@ DropLevel >= 70
 BaseType "Pinnacle Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #######END SHIELDS BY DROP TIER#######
 
@@ -2391,7 +2391,7 @@ DropLevel >= 63
 BaseType "Butcher Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -2402,7 +2402,7 @@ DropLevel >= 65
 BaseType "Vaal Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2413,7 +2413,7 @@ DropLevel >= 67
 BaseType "Royal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2424,7 +2424,7 @@ DropLevel >= 69
 BaseType "Infernal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -2435,7 +2435,7 @@ DropLevel >= 71
 BaseType "Runic Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #######END 1H AXES BY DROP TIER#######
 
@@ -2454,7 +2454,7 @@ DropLevel >= 64
 BaseType "Vaal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2465,7 +2465,7 @@ DropLevel >= 66
 BaseType "Despot Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2476,7 +2476,7 @@ DropLevel >= 68
 BaseType "Void Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -2487,7 +2487,7 @@ DropLevel >= 70
 BaseType "Fleshripper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ####END 2H AXES BY DROP TIER######
 
@@ -2508,7 +2508,7 @@ DropLevel >= 62
 BaseType "Opal Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -2519,7 +2519,7 @@ DropLevel >= 65
 BaseType "Tornado Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -2530,7 +2530,7 @@ DropLevel >= 68
 BaseType "Prophecy Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -2541,7 +2541,7 @@ DropLevel >= 70
 BaseType "Profane Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ####END WANDS BY DROP TIER###
 
@@ -2560,7 +2560,7 @@ DropLevel >= 64
 BaseType "Platinum Kris"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2571,7 +2571,7 @@ DropLevel >= 66
 BaseType "Imperial Skean"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2582,7 +2582,7 @@ DropLevel >= 68
 BaseType "Demon Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -2593,7 +2593,7 @@ DropLevel >= 70
 BaseType "Sai"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ####END DAGGERS BY DROP TIER####
 
@@ -2612,7 +2612,7 @@ DropLevel >= 66
 BaseType "Vaal Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2623,7 +2623,7 @@ DropLevel >= 68
 BaseType "Imperial Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2634,7 +2634,7 @@ DropLevel >= 70
 BaseType "Terror Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 Show
@@ -2644,7 +2644,7 @@ DropLevel >= 72
 BaseType "Gemini Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ####END CLAWS BY DROP TIER#####
 
@@ -2663,7 +2663,7 @@ DropLevel >= 64
 BaseType "Pernarch"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2674,7 +2674,7 @@ DropLevel >= 66
 BaseType "Auric Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2685,7 +2685,7 @@ DropLevel >= 68
 BaseType "Nightmare Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2695,7 +2695,7 @@ DropLevel >= 70
 BaseType "Behemoth Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END 1H MACES BY DROP TIER####
 
@@ -2714,7 +2714,7 @@ DropLevel >= 64
 BaseType "Vaal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2725,7 +2725,7 @@ DropLevel >= 66
 BaseType "Carnal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2736,7 +2736,7 @@ DropLevel >= 68
 BaseType "Void Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2746,7 +2746,7 @@ DropLevel >= 70
 BaseType "Sambar Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END SCEPTRES BY DROP TIER####
 
@@ -2765,7 +2765,7 @@ DropLevel >= 64
 BaseType "Vaal Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2776,7 +2776,7 @@ DropLevel >= 66
 BaseType "Eternal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2787,7 +2787,7 @@ DropLevel >= 68
 BaseType "Midnight Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 
 ###MARAKETH###
@@ -2798,7 +2798,7 @@ DropLevel >= 70
 BaseType "Tiger Hook"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END GENERIC 1H SWORDS BY DROP TIER####
 
@@ -2817,7 +2817,7 @@ DropLevel >= 66
 BaseType "Vaal Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -2828,7 +2828,7 @@ DropLevel >= 68
 BaseType "Jewelled Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -2839,7 +2839,7 @@ DropLevel >= 70
 BaseType "Harpy Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2849,7 +2849,7 @@ DropLevel >= 72
 BaseType "Dragoon Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END THRUSTING SWORDS BY DROP TIER####
 
@@ -2868,7 +2868,7 @@ DropLevel >= 63
 BaseType "Meatgrinder"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -2879,7 +2879,7 @@ DropLevel >= 65
 BaseType "Imperial Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -2890,7 +2890,7 @@ DropLevel >= 67
 BaseType "Terror Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2900,7 +2900,7 @@ DropLevel >= 69
 BaseType "Coronal Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H MACES BY DROP TIER####
 
@@ -2919,7 +2919,7 @@ DropLevel >= 63
 BaseType "Vaal Greatsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -2930,7 +2930,7 @@ DropLevel >= 65
 BaseType "Lion Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -2941,7 +2941,7 @@ DropLevel >= 67
 BaseType "Infernal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2951,7 +2951,7 @@ DropLevel >= 70
 BaseType "Exquisite Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H SWORDS BY DROP TIER####
 
@@ -2970,7 +2970,7 @@ DropLevel >= 66
 BaseType "Imperial Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -2981,7 +2981,7 @@ DropLevel >= 68
 BaseType "Judgement Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -2991,7 +2991,7 @@ DropLevel >= 70
 BaseType "Eclipse Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END STAVES BY DROP TIER####
 
@@ -3010,7 +3010,7 @@ DropLevel >= 64
 BaseType "Spine Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -3021,7 +3021,7 @@ DropLevel >= 66
 BaseType "Imperial Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -3032,7 +3032,7 @@ DropLevel >= 68
 BaseType "Harbinger Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -3042,7 +3042,7 @@ DropLevel >= 71
 BaseType "Maraketh Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 250 40 210    
-SetFontSize 32
+SetFontSize 30
 
 #####END BOWS BY DROP TIER####
 
@@ -3076,7 +3076,7 @@ ItemLevel < 62
 BaseType "Sentinel Jacket"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Crypt Armour"##
 
@@ -3091,7 +3091,7 @@ ItemLevel < 62
 BaseType "Crusader Plate" "Destiny Leather" "Necromancer Silks" "Desert Brigandine" "Conquest Chainmail"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -3103,7 +3103,7 @@ ItemLevel < 65
 BaseType "Varnished Coat"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Sentinel Jacket"##
 
@@ -3118,7 +3118,7 @@ ItemLevel < 65
 BaseType "Exquisite Leather" "Full Dragonscale" "Elegant Ringmail" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3128,7 +3128,7 @@ DropLevel >= 62
 BaseType "Astral Plate" "Zodiac Leather" "Occultist's Vestment" "General's Brigandine" "Saint's Hauberk"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -3139,7 +3139,7 @@ DropLevel >= 65
 BaseType "Blood Raiment"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Varnished Coat"##
 
@@ -3154,7 +3154,7 @@ ItemLevel < 68
 BaseType "Gladiator Plate" "Widowsilk Robe"  
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -3165,7 +3165,7 @@ DropLevel >= 68
 BaseType "Sadist Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Blood Raiment"##
 
@@ -3179,7 +3179,7 @@ DropLevel >= 68
 BaseType "Glorious Plate" "Assassin's Garb" "Vaal Regalia" "Triumphant Lamellar" "Saintly Chainmail" "Carnal Armour"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Sadist Garb"##
 
@@ -3194,7 +3194,7 @@ BaseType "Sacrificial Garb"
 SetBorderColor 0 180 0
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 
 ##########END BODY ARMOUR BY DROP TIER##########
@@ -3216,7 +3216,7 @@ ItemLevel < 61
 BaseType "Conjurer Boots" "Goliath Greaves" "Shagreen Boots" "Carnal Boots" "Legion Boots" "Hydrascale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -3229,7 +3229,7 @@ ItemLevel < 67
 BaseType "Arcanist Slippers" "Vaal Greaves" "Stealth Boots" "Assassin's Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3239,7 +3239,7 @@ DropLevel >= 61
 BaseType "Assassin's Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES##
 
@@ -3251,7 +3251,7 @@ DropLevel >= 64
 BaseType "Crusader Boots" "Dragonscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -3263,7 +3263,7 @@ DropLevel >= 67
 BaseType "Sorcerer Boots" "Titan Greaves" "Slink Boots" "Murder Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ########END BOOTS BY DROP TIER############
 
@@ -3283,7 +3283,7 @@ ItemLevel < 69
 BaseType "Arcanist Gloves" "Stealth Gloves" "Vaal Gauntlets"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV/ES##
 Show
@@ -3294,7 +3294,7 @@ DropLevel >= 66
 BaseType "Crusader Gloves" "Dragonscale Gauntlets" "Murder Mitts"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30
-SetFontSize 32
+SetFontSize 30
 
 #8#
 Show
@@ -3305,7 +3305,7 @@ DropLevel >= 69
 BaseType "Titan Gauntlets" "Sorcerer Gloves" "Slink Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END GLOVES BY DROP TIER#######
 
@@ -3329,7 +3329,7 @@ ItemLevel < 64
 BaseType "Silken Hood"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -3342,7 +3342,7 @@ ItemLevel < 67
 BaseType "Ezomyte Burgonet"  "Sinner Tricorne"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3352,7 +3352,7 @@ DropLevel >= 60
 BaseType "Pig-Faced Bascinet" "Prophet Crown" "Vaal Mask"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###JANKY ES####
 
@@ -3365,7 +3365,7 @@ ItemLevel < 67
 BaseType "Mind Cage"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -3380,7 +3380,7 @@ ItemLevel < 69
 BaseType "Royal Burgonet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30   
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3390,7 +3390,7 @@ DropLevel >= 67
 BaseType "Nightmare Bascinet" "Deicide Mask" "Praetor Crown" "Hubris Circlet" "Lion Pelt"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -3402,7 +3402,7 @@ DropLevel >= 69
 BaseType "Eternal Burgonet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #######END HELMETS BY DROP TIER#######
 
@@ -3424,7 +3424,7 @@ ItemLevel < 62
 BaseType "Teak Round Shield" "Alder Spiked Shield" "Branded Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -3438,7 +3438,7 @@ ItemLevel < 65
 BaseType "Spiny Round Shield" "Champion Kite Shield" "Ezomyte Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -3452,7 +3452,7 @@ ItemLevel < 68
 BaseType "Mosaic Kite Shield" "Cardinal Round Shield" "Mirrored Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 Show
@@ -3464,7 +3464,7 @@ ItemLevel < 61
 BaseType "Shagreen Tower Shield" "Lacquered Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3474,7 +3474,7 @@ DropLevel >= 58
 BaseType "Fossilised Spirit Shield" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -3485,7 +3485,7 @@ DropLevel >= 68
 BaseType "Archon Kite Shield" "Elegant Round Shield" "Supreme Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 Show
@@ -3496,7 +3496,7 @@ DropLevel >= 61
 BaseType "Vaal Spirit Shield" "Vaal Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3507,7 +3507,7 @@ ItemLevel < 64
 BaseType "Ebony Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 Show
@@ -3518,7 +3518,7 @@ DropLevel >= 64
 BaseType "Ezomyte Tower Shield" "Harmonic Spirit Shield" "Crusader Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -3531,7 +3531,7 @@ DropLevel >= 67
 BaseType "Colossal Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3541,7 +3541,7 @@ Rarity Rare
     BaseType "Titanium Spirit Shield" "Imperial Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 Show
@@ -3552,7 +3552,7 @@ DropLevel >= 70
 BaseType "Pinnacle Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #######END SHIELDS BY DROP TIER#######
 
@@ -3577,7 +3577,7 @@ ItemLevel < 71
 BaseType "Engraved Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -3590,7 +3590,7 @@ ItemLevel < 61
 BaseType "Siege Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -3603,7 +3603,7 @@ ItemLevel < 63
 BaseType "Reaver Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -3615,7 +3615,7 @@ DropLevel >= 63
 BaseType "Butcher Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -3627,7 +3627,7 @@ DropLevel >= 65
 BaseType "Vaal Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -3639,7 +3639,7 @@ DropLevel >= 67
 BaseType "Royal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -3651,7 +3651,7 @@ DropLevel >= 69
 BaseType "Infernal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -3663,7 +3663,7 @@ DropLevel >= 71
 BaseType "Runic Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #######END 1H AXES BY DROP TIER#######
 
@@ -3686,7 +3686,7 @@ ItemLevel < 70
 BaseType "Talon Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -3699,7 +3699,7 @@ ItemLevel < 62
 BaseType "Sundering Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -3712,7 +3712,7 @@ ItemLevel < 63
 BaseType "Ezomyte Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 Show
 Rarity Rare
@@ -3723,7 +3723,7 @@ ItemLevel < 64
 BaseType "Butcher Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -3735,7 +3735,7 @@ DropLevel >= 64
 BaseType "Vaal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -3747,7 +3747,7 @@ DropLevel >= 66
 BaseType "Despot Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -3759,7 +3759,7 @@ DropLevel >= 68
 BaseType "Void Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -3771,7 +3771,7 @@ DropLevel >= 70
 BaseType "Fleshripper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ####END 2H AXES BY DROP TIER######
 
@@ -3794,7 +3794,7 @@ ItemLevel < 70
 BaseType "Heathen Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -3807,7 +3807,7 @@ ItemLevel < 62
 BaseType "Imbued Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -3819,7 +3819,7 @@ DropLevel >= 62
 BaseType "Opal Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -3831,7 +3831,7 @@ DropLevel >= 65
 BaseType "Tornado Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -3843,7 +3843,7 @@ DropLevel >= 68
 BaseType "Prophecy Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -3855,7 +3855,7 @@ DropLevel >= 70
 BaseType "Profane Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ####END WANDS BY DROP TIER###
 
@@ -3882,7 +3882,7 @@ ItemLevel < 70
 BaseType "Trisula"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -3895,7 +3895,7 @@ ItemLevel < 62
 BaseType "Ambusher"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -3908,7 +3908,7 @@ ItemLevel < 64
 BaseType "Ezomyte Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -3920,7 +3920,7 @@ DropLevel >= 64
 BaseType "Platinum Kris"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -3932,7 +3932,7 @@ DropLevel >= 66
 BaseType "Imperial Skean"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -3944,7 +3944,7 @@ DropLevel >= 68
 BaseType "Demon Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -3956,7 +3956,7 @@ DropLevel >= 70
 BaseType "Sai"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ####END DAGGERS BY DROP TIER####
 
@@ -3978,7 +3978,7 @@ ItemLevel < 72
 BaseType "Twin Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -3991,7 +3991,7 @@ ItemLevel < 62
 BaseType "Throat Stabber"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4004,7 +4004,7 @@ ItemLevel < 64
 BaseType "Hellion's Paw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4017,7 +4017,7 @@ ItemLevel < 66
 BaseType "Eye Gouger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4029,7 +4029,7 @@ DropLevel >= 66
 BaseType "Vaal Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4041,7 +4041,7 @@ DropLevel >= 68
 BaseType "Imperial Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4053,7 +4053,7 @@ DropLevel >= 70
 BaseType "Terror Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 Show
@@ -4064,7 +4064,7 @@ DropLevel >= 72
 BaseType "Gemini Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ####END CLAWS BY DROP TIER#####
 
@@ -4086,7 +4086,7 @@ ItemLevel < 70
 BaseType "Dragon Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4099,7 +4099,7 @@ ItemLevel < 62
 BaseType "Gavel"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 
 #18#
@@ -4113,7 +4113,7 @@ ItemLevel < 64
 BaseType "Legion Hammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4125,7 +4125,7 @@ DropLevel >= 64
 BaseType "Pernarch"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4137,7 +4137,7 @@ DropLevel >= 66
 BaseType "Auric Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4149,7 +4149,7 @@ DropLevel >= 68
 BaseType "Nightmare Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4160,7 +4160,7 @@ DropLevel >= 70
 BaseType "Behemoth Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END 1H MACES BY DROP TIER####
 
@@ -4182,7 +4182,7 @@ ItemLevel < 70
 BaseType "Stag Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4195,7 +4195,7 @@ ItemLevel < 62
 BaseType "Opal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4208,7 +4208,7 @@ ItemLevel < 64
 BaseType "Platinum Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4220,7 +4220,7 @@ DropLevel >= 64
 BaseType "Vaal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4232,7 +4232,7 @@ DropLevel >= 66
 BaseType "Carnal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4244,7 +4244,7 @@ DropLevel >= 68
 BaseType "Void Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4255,7 +4255,7 @@ DropLevel >= 70
 BaseType "Sambar Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END SCEPTRES BY DROP TIER####
 
@@ -4277,7 +4277,7 @@ ItemLevel < 70
 BaseType "Grappler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4290,7 +4290,7 @@ ItemLevel < 62
 BaseType "Gladius"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4303,7 +4303,7 @@ ItemLevel < 64
 BaseType "Legion Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4315,7 +4315,7 @@ DropLevel >= 64
 BaseType "Vaal Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4327,7 +4327,7 @@ DropLevel >= 66
 BaseType "Eternal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4339,7 +4339,7 @@ DropLevel >= 68
 BaseType "Midnight Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 
 ###MARAKETH###
@@ -4351,7 +4351,7 @@ DropLevel >= 70
 BaseType "Tiger Hook"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END GENERIC 1H SWORDS BY DROP TIER####
 
@@ -4373,7 +4373,7 @@ ItemLevel < 72
 BaseType "Courtesan Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -4386,7 +4386,7 @@ ItemLevel < 62
 BaseType "Tempered Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4399,7 +4399,7 @@ ItemLevel < 64
 BaseType "Pecoraro"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4412,7 +4412,7 @@ ItemLevel < 66
 BaseType "Spiraled Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30   
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4424,7 +4424,7 @@ DropLevel >= 66
 BaseType "Vaal Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4436,7 +4436,7 @@ DropLevel >= 68
 BaseType "Jewelled Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4448,7 +4448,7 @@ DropLevel >= 70
 BaseType "Harpy Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4459,7 +4459,7 @@ DropLevel >= 72
 BaseType "Dragoon Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END THRUSTING SWORDS BY DROP TIER####
 
@@ -4481,7 +4481,7 @@ ItemLevel < 69
 BaseType "Solar Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -4494,7 +4494,7 @@ ItemLevel < 61
 BaseType "Colossus Mallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -4507,7 +4507,7 @@ ItemLevel < 63
 BaseType "Piledriver"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -4519,7 +4519,7 @@ DropLevel >= 63
 BaseType "Meatgrinder"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4531,7 +4531,7 @@ DropLevel >= 65
 BaseType "Imperial Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4543,7 +4543,7 @@ DropLevel >= 67
 BaseType "Terror Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4554,7 +4554,7 @@ DropLevel >= 69
 BaseType "Coronal Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H MACES BY DROP TIER####
 
@@ -4576,7 +4576,7 @@ ItemLevel < 70
 BaseType "Lithe Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -4589,7 +4589,7 @@ ItemLevel < 61
 BaseType "Reaver Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -4602,7 +4602,7 @@ ItemLevel < 63
 BaseType "Ezomyte Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -4614,7 +4614,7 @@ DropLevel >= 63
 BaseType "Vaal Greatsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4626,7 +4626,7 @@ DropLevel >= 65
 BaseType "Lion Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4638,7 +4638,7 @@ DropLevel >= 67
 BaseType "Infernal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4649,7 +4649,7 @@ DropLevel >= 70
 BaseType "Exquisite Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H SWORDS BY DROP TIER####
 
@@ -4671,7 +4671,7 @@ ItemLevel < 70
 BaseType "Moon Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -4684,7 +4684,7 @@ ItemLevel < 62
 BaseType "Lathi"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -4697,7 +4697,7 @@ ItemLevel < 64
 BaseType "Ezomyte Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -4709,7 +4709,7 @@ DropLevel >= 64
 BaseType Maelstr
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4721,7 +4721,7 @@ DropLevel >= 66
 BaseType "Imperial Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4733,7 +4733,7 @@ DropLevel >= 68
 BaseType "Judgement Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4744,7 +4744,7 @@ DropLevel >= 70
 BaseType "Eclipse Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END STAVES BY DROP TIER####
 
@@ -4766,7 +4766,7 @@ ItemLevel < 71
 BaseType "Steelwood Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -4779,7 +4779,7 @@ ItemLevel < 62
 BaseType "Ranger Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -4792,7 +4792,7 @@ ItemLevel < 64
 BaseType "Assassin Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -4804,7 +4804,7 @@ DropLevel >= 64
 BaseType "Spine Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -4816,7 +4816,7 @@ DropLevel >= 66
 BaseType "Imperial Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -4828,7 +4828,7 @@ DropLevel >= 68
 BaseType "Harbinger Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -4839,7 +4839,7 @@ DropLevel >= 71
 BaseType "Maraketh Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 240 230 30    
-SetFontSize 32
+SetFontSize 30
 
 #####END BOWS BY DROP TIER####
 
@@ -9730,7 +9730,7 @@ ItemLevel < 6
 BaseType "Plate Vest" "Shabby Jerkin" "Simple Robe" "Scale Vest" "Chainmail Vest" "Padded Vest"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -9740,7 +9740,7 @@ ItemLevel < 17
 BaseType "Chestplate" "Light Brigandine" "Chainmail Tunic" "Strapped Leather" "Oiled Vest" "Silken Vest"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -9750,7 +9750,7 @@ ItemLevel < 21
 BaseType "Copper Plate" "Buckskin Tunic" "Scale Doublet" "Ringmail Coat" "Scholar's Robe" "Padded Jacket"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -9760,7 +9760,7 @@ ItemLevel < 28
 BaseType "War Plate" "Infantry Brigandine" "Chainmail Doublet" "Oiled Coat" "Wild Leather" "Silken Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -9770,7 +9770,7 @@ ItemLevel < 32
 BaseType "Full Plate" "Full Leather" "Mage's Vestment" "Full Scale Armour" "Full Ringmail" "Scarlet Raiment"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -9780,7 +9780,7 @@ ItemLevel < 35
 BaseType "Arena Plate" "Sun Leather" "Silk Robe" "Soldier's Brigandine" "Full Chainmail" "Waxed Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -9790,7 +9790,7 @@ ItemLevel < 37
 BaseType "Lordly Plate" "Thief's Garb" "Cabalist Regalia" "Field Lamellar" "Holy Chainmail" "Bone Armour"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -9800,7 +9800,7 @@ ItemLevel < 41
 BaseType "Bronze Plate" "Eelskin Tunic" "Sage's Robe" "Wyrmscale Doublet" "Latticed Ringmail" "Quilted Jacket"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -9810,7 +9810,7 @@ ItemLevel < 45
 BaseType "Battle Plate" "Frontier Leather" "Silken Wrap" "Hussar Brigandine" "Crusader Chainmail" "Sleek Coat"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -9820,7 +9820,7 @@ ItemLevel < 49
 BaseType "Sun Plate" "Glorious Leather" "Conjurer's Vestment" "Full Wyrmscale" "Ornate Ringmail" "Crimson Raiment"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -9830,7 +9830,7 @@ ItemLevel < 53
 BaseType "Colosseum Plate" "Coronal Leather" "Spidersilk Robe" "Commander's Brigandine" "Chain Hauberk" "Lacquered Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -9840,7 +9840,7 @@ ItemLevel < 56
 BaseType "Majestic Plate" "Cutthroat's Garb" "Destroyer Regalia" "Battle Lamellar" "Devout Chainmail"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -9849,7 +9849,7 @@ ItemLevel < 59
 BaseType "Crypt Armour"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -9859,7 +9859,7 @@ ItemLevel < 59
 BaseType "Golden Plate" "Sharkskin Tunic" "Savant's Robe" "Dragonscale Doublet" "Loricated Ringmail"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -9868,7 +9868,7 @@ ItemLevel < 62
 BaseType "Sentinel Jacket"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Crypt Armour"##
 
@@ -9880,7 +9880,7 @@ ItemLevel < 62
 BaseType "Crusader Plate" "Destiny Leather" "Necromancer Silks" "Desert Brigandine" "Conquest Chainmail"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -9889,7 +9889,7 @@ ItemLevel < 65
 BaseType "Varnished Coat"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Sentinel Jacket"##
 
@@ -9901,14 +9901,14 @@ ItemLevel < 65
 BaseType "Exquisite Leather" "Full Dragonscale" "Elegant Ringmail" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 62
 BaseType "Astral Plate" "Zodiac Leather" "Occultist's Vestment" "General's Brigandine" "Saint's Hauberk"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -9916,7 +9916,7 @@ DropLevel >= 65
 BaseType "Blood Raiment"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Varnished Coat"##
 
@@ -9928,7 +9928,7 @@ ItemLevel < 68
 BaseType "Gladiator Plate" "Widowsilk Robe"  
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##Janky EV/ES##
 Show
@@ -9936,7 +9936,7 @@ DropLevel >= 68
 BaseType "Sadist Garb"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Blood Raiment"##
 
@@ -9947,7 +9947,7 @@ DropLevel >= 68
 BaseType "Glorious Plate" "Assassin's Garb" "Vaal Regalia" "Triumphant Lamellar" "Saintly Chainmail" "Carnal Armour"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##^^"Sadist Garb"##
 
@@ -9959,7 +9959,7 @@ BaseType "Sacrificial Garb"
 SetBorderColor 0 180 0
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 ##########END BODY ARMOUR BY DROP TIER##########
@@ -9978,7 +9978,7 @@ ItemLevel < 9
 BaseType "Iron Greaves" "Rawhide Boots" "Wool Shoes" "Chain Boots" "Leatherscale Boots" "Wrapped Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -9988,7 +9988,7 @@ ItemLevel < 22
 BaseType "Steel Greaves" "Velvet Slippers" "Goathide Boots" "Ringmail Boots" "Strapped Boots" "Ironscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -9998,7 +9998,7 @@ ItemLevel < 32
 BaseType "Deerskin Boots" "Silk Slippers" "Plated Greaves" "Clasped Boots" "Mesh Boots" "Bronzescale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -10008,7 +10008,7 @@ ItemLevel < 37
 BaseType "Scholar Boots" "Reinforced Greaves" "Nubuck Boots" "Shackled Boots" "Steelscale Boots" "Riveted Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -10018,7 +10018,7 @@ ItemLevel < 44
 BaseType "Antique Greaves" "Satin Slippers" "Eelskin Boots" "Zealot Boots" "Trapper Boots" "Serpentscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -10028,7 +10028,7 @@ ItemLevel < 53
 BaseType "Sharkskin Boots" "Samite Slippers" "Ancient Greaves" "Ambush Boots" "Soldier Boots" "Wyrmscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -10038,7 +10038,7 @@ ItemLevel < 61
 BaseType "Conjurer Boots" "Goliath Greaves" "Shagreen Boots" "Carnal Boots" "Legion Boots" "Hydrascale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -10048,14 +10048,14 @@ ItemLevel < 67
 BaseType "Arcanist Slippers" "Vaal Greaves" "Stealth Boots" "Assassin's Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 61
 BaseType "Assassin's Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES##
 
@@ -10064,7 +10064,7 @@ DropLevel >= 64
 BaseType "Crusader Boots" "Dragonscale Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -10073,7 +10073,7 @@ DropLevel >= 67
 BaseType "Sorcerer Boots" "Titan Greaves" "Slink Boots" "Murder Boots"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ########END BOOTS BY DROP TIER############
 
@@ -10091,7 +10091,7 @@ ItemLevel < 9
     BaseType "Iron Gauntlets" "Rawhide Gloves" "Wool Gloves" "Fishscale Gauntlets" "Wrapped Mitts" "Chain Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 Show
@@ -10100,7 +10100,7 @@ ItemLevel < 21
 BaseType "Goathide Gloves" "Plated Gauntlets" "Velvet Gloves" "Ironscale Gauntlets" "Strapped Mitts" "Ringmail Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 Show
@@ -10109,7 +10109,7 @@ ItemLevel < 33
 BaseType "Deerskin Gloves" "Bronze Gauntlets" "Silk Gloves" "Bronzescale Gauntlets" "Clasped Mitts" "Mesh Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 Show
@@ -10118,7 +10118,7 @@ ItemLevel < 38
 BaseType "Nubuck Gloves" "Steel Gauntlets" "Embroidered Gloves" "Steelscale Gauntlets" "Trapper Mitts" "Riveted Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 Show
@@ -10127,7 +10127,7 @@ ItemLevel < 45
 BaseType "Eelskin Gloves" "Antique Gauntlets" "Satin Gloves" "Serpentscale Gauntlets" "Zealot Gloves" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MILDLY JANKY EV/ES##
 Show
@@ -10136,7 +10136,7 @@ ItemLevel < 50
 BaseType "Ambush Mitts"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 Show
@@ -10145,7 +10145,7 @@ ItemLevel < 53
 BaseType "Sharkskin Gloves" "Ancient Gauntlets" "Samite Gloves" "Wyrmscale Gauntlets" "Carnal Mitts" "Soldier Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 Show
@@ -10154,7 +10154,7 @@ ItemLevel < 60
 BaseType "Goliath Gauntlets" "Shagreen Gloves" "Conjurer Gloves" "Legion Gloves" "Assassin's Mitts" "Hydrascale Gauntlets"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 Show
@@ -10163,7 +10163,7 @@ ItemLevel < 69
 BaseType "Arcanist Gloves" "Stealth Gloves" "Vaal Gauntlets"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV/ES##
 Show
@@ -10171,7 +10171,7 @@ DropLevel >= 66
 BaseType "Crusader Gloves" "Dragonscale Gauntlets" "Murder Mitts"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150
-SetFontSize 32
+SetFontSize 30
 
 #8#
 Show
@@ -10179,7 +10179,7 @@ DropLevel >= 69
 BaseType "Titan Gauntlets" "Sorcerer Gloves" "Slink Gloves"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END GLOVES BY DROP TIER#######
 
@@ -10198,7 +10198,7 @@ ItemLevel < 7
 BaseType "Iron Hat" "Leather Cap" "Vine Circlet" "Battered Helm" "Scare Mask" "Rusted Coif"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -10208,7 +10208,7 @@ ItemLevel < 17
 BaseType "Cone Helmet" "Iron Circlet" "Tricorne" "Plague Mask" "Soldier Helmet" "Sallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -10218,7 +10218,7 @@ ItemLevel < 26
 BaseType "Torture Cage" "Iron Mask" "Barbute Helmet" "Leather Hood" "Great Helmet" "Visored Sallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -10228,7 +10228,7 @@ ItemLevel < 34
 BaseType "Close Helmet" "Tribal Circlet" "Festival Mask" "Wolf Pelt" "Crusader Helmet" "Gilded Sallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -10238,7 +10238,7 @@ ItemLevel < 40
 BaseType "Bone Circlet" "Gladiator Helmet" "Golden Mask" "Secutor Helm" "Aventail Helmet" "Raven Mask" "Lunaris Circlet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ####JANKY EV####
 
@@ -10248,7 +10248,7 @@ ItemLevel < 47
 BaseType "Hunter Hood"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -10258,7 +10258,7 @@ ItemLevel < 48
 BaseType "Reaver Helmet" "Fencer Helm" "Zealot Helmet" "Callous Mask" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY ES###
 
@@ -10269,7 +10269,7 @@ ItemLevel < 54
 BaseType "Noble Tricorne" "Steel Circlet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -10279,7 +10279,7 @@ ItemLevel < 55
 BaseType "Siege Helmet" "Lacquered Helmet" "Regicide Mask" "Great Crown" "Necromancer Circlet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###JANKY EV####
 
@@ -10289,7 +10289,7 @@ ItemLevel < 60
 BaseType "Ursine Pelt"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -10299,7 +10299,7 @@ ItemLevel < 60
 BaseType "Samite Helmet" "Harlequin Mask" "Fluted Bascinet" "Magistrate Crown" "Solaris Circlet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###JANKY EV###
 
@@ -10309,7 +10309,7 @@ ItemLevel < 64
 BaseType "Silken Hood"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -10319,14 +10319,14 @@ ItemLevel < 67
 BaseType "Ezomyte Burgonet"  "Sinner Tricorne"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 60
 BaseType "Pig-Faced Bascinet" "Prophet Crown" "Vaal Mask"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###JANKY ES####
 
@@ -10336,7 +10336,7 @@ ItemLevel < 67
 BaseType "Mind Cage"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -10348,14 +10348,14 @@ ItemLevel < 69
 BaseType "Royal Burgonet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 67
 BaseType "Nightmare Bascinet" "Deicide Mask" "Praetor Crown" "Hubris Circlet" "Lion Pelt"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -10364,7 +10364,7 @@ DropLevel >= 69
 BaseType "Eternal Burgonet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #######END HELMETS BY DROP TIER#######
 
@@ -10382,7 +10382,7 @@ ItemLevel < 5
 BaseType "Splintered Tower Shield" "Goathide Buckler" "Twig Spirit Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10391,7 +10391,7 @@ ItemLevel < 12
 BaseType "Rotted Round Shield" "Spiked Bundle" "Plank Kite Shield"	
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 Show
@@ -10400,7 +10400,7 @@ ItemLevel < 11
 BaseType "Corroded Tower Shield" "Pine Buckler" "Yew Spirit Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10409,7 +10409,7 @@ ItemLevel < 20
 BaseType "Fir Round Shield" "Driftwood Spiked Shield" "Linden Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 Show
@@ -10418,7 +10418,7 @@ ItemLevel < 17
 BaseType "Rawhide Tower Shield" "Bone Spirit Shield" "Painted Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10427,7 +10427,7 @@ ItemLevel < 27
 BaseType "Studded Round Shield" "Reinforced Kite Shield" "Alloyed Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 Show
@@ -10436,7 +10436,7 @@ ItemLevel < 24
 BaseType "Cedar Tower Shield" "Hammered Buckler" "Tarnished Spirit Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10445,7 +10445,7 @@ ItemLevel < 33
 BaseType "Scarlet Round Shield" "Layered Kite Shield" "Burnished Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 Show
@@ -10454,7 +10454,7 @@ ItemLevel < 30
 BaseType "Copper Tower Shield" "Jingling Spirit Shield" "War Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10463,7 +10463,7 @@ ItemLevel < 39
 BaseType "Splendid Round Shield" "Ornate Spiked Shield" "Ceremonial Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 Show
@@ -10472,7 +10472,7 @@ ItemLevel < 35
 BaseType "Reinforced Tower Shield" "Brass Spirit Shield" "Gilded Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10481,7 +10481,7 @@ ItemLevel < 45
 BaseType "Maple Round Shield" "Redwood Spiked Shield" "Etched Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 Show
@@ -10490,7 +10490,7 @@ ItemLevel < 39
 BaseType "Painted Tower Shield" "Walnut Spirit Shield" "Oak Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10499,7 +10499,7 @@ ItemLevel < 49
 BaseType "Spiked Round Shield" "Compound Spiked Shield" "Steel Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 Show
@@ -10508,7 +10508,7 @@ ItemLevel < 43
 BaseType "Buckskin Tower Shield" "Ivory Spirit Shield" "Enameled Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10517,7 +10517,7 @@ ItemLevel < 54
 BaseType "Crimson Round Shield" "Polished Spiked Shield" "Laminated Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 Show
@@ -10526,7 +10526,7 @@ ItemLevel < 47
 BaseType "Mahogany Tower Shield" "Ancient Spirit Shield" "Corrugated Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10535,7 +10535,7 @@ ItemLevel < 58
 BaseType "Baroque Round Shield" "Sovereign Spiked Shield" "Angelic Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 Show
@@ -10544,7 +10544,7 @@ ItemLevel < 51
 BaseType "Bronze Tower Shield" "Chiming Spirit Shield" "Battle Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10553,7 +10553,7 @@ ItemLevel < 62
 BaseType "Teak Round Shield" "Alder Spiked Shield" "Branded Kite Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 Show
@@ -10562,7 +10562,7 @@ ItemLevel < 55
 BaseType "Girded Tower Shield" "Thorium Spirit Shield" "Golden Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10571,7 +10571,7 @@ ItemLevel < 65
 BaseType "Spiny Round Shield" "Champion Kite Shield" "Ezomyte Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 Show
@@ -10580,7 +10580,7 @@ ItemLevel < 58
 BaseType "Crested Tower Shield" "Lacewood Spirit Shield" "Ironwood Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10589,7 +10589,7 @@ ItemLevel < 68
 BaseType "Mosaic Kite Shield" "Cardinal Round Shield" "Mirrored Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 Show
@@ -10598,14 +10598,14 @@ ItemLevel < 61
 BaseType "Shagreen Tower Shield" "Lacquered Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 58
 BaseType "Fossilised Spirit Shield" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##JANKY AR/EV+AR/ES+EV+ES##
 Show
@@ -10613,7 +10613,7 @@ DropLevel >= 68
 BaseType "Archon Kite Shield" "Elegant Round Shield" "Supreme Spiked Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 Show
@@ -10621,7 +10621,7 @@ DropLevel >= 61
 BaseType "Vaal Spirit Shield" "Vaal Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 61
@@ -10629,7 +10629,7 @@ ItemLevel < 64
 BaseType "Ebony Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 Show
@@ -10637,7 +10637,7 @@ DropLevel >= 64
 BaseType "Ezomyte Tower Shield" "Harmonic Spirit Shield" "Crusader Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -10647,14 +10647,14 @@ DropLevel >= 67
 BaseType "Colossal Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
     DropLevel >= 67
     BaseType "Titanium Spirit Shield" "Imperial Buckler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 Show
@@ -10662,7 +10662,7 @@ DropLevel >= 70
 BaseType "Pinnacle Tower Shield"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #######END SHIELDS BY DROP TIER#######
 
@@ -10682,7 +10682,7 @@ ItemLevel < 6
 BaseType "Rusted Hatchet" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 #1#
@@ -10693,7 +10693,7 @@ ItemLevel < 11
 BaseType "Jade Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -10703,7 +10703,7 @@ ItemLevel < 16
 BaseType "Boarding Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 #3#
@@ -10714,7 +10714,7 @@ ItemLevel < 21
 BaseType "Cleaver"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -10724,7 +10724,7 @@ ItemLevel < 25
 BaseType "Broad Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -10734,7 +10734,7 @@ ItemLevel < 29
 BaseType "Arming Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -10744,7 +10744,7 @@ ItemLevel < 33
 BaseType "Decorative Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -10754,7 +10754,7 @@ ItemLevel < 36
 BaseType "Spectral Axe" 
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -10766,7 +10766,7 @@ ItemLevel < 56
 BaseType "Etched Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 36
@@ -10774,7 +10774,7 @@ ItemLevel < 39
 BaseType "Jasper Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -10784,7 +10784,7 @@ ItemLevel < 42
 BaseType "Tomahawk"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -10794,7 +10794,7 @@ ItemLevel < 45
 BaseType "Wrist Chopper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -10804,7 +10804,7 @@ ItemLevel < 48
 BaseType "War Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -10814,7 +10814,7 @@ ItemLevel < 51
 BaseType "Chest Splitter"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -10824,7 +10824,7 @@ ItemLevel < 54
 BaseType "Ceremonial Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -10834,7 +10834,7 @@ ItemLevel < 57
 BaseType "Wraith Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -10846,7 +10846,7 @@ ItemLevel < 71
 BaseType "Engraved Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 57
@@ -10854,7 +10854,7 @@ DropLevel >= 57
 BaseType "Karui Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -10864,7 +10864,7 @@ ItemLevel < 61
 BaseType "Siege Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -10874,7 +10874,7 @@ ItemLevel < 63
 BaseType "Reaver Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -10883,7 +10883,7 @@ DropLevel >= 63
 BaseType "Butcher Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -10892,7 +10892,7 @@ DropLevel >= 65
 BaseType "Vaal Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -10901,7 +10901,7 @@ DropLevel >= 67
 BaseType "Royal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -10910,7 +10910,7 @@ DropLevel >= 69
 BaseType "Infernal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -10919,7 +10919,7 @@ DropLevel >= 71
 BaseType "Runic Hatchet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #######END 1H AXES BY DROP TIER#######
 
@@ -10937,7 +10937,7 @@ ItemLevel < 9
 BaseType "Stone Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -10947,7 +10947,7 @@ ItemLevel < 13
 BaseType "Jade Chopper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -10957,7 +10957,7 @@ ItemLevel < 18
 BaseType "Woodsplitter"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -10967,7 +10967,7 @@ ItemLevel < 23
 BaseType "Poleaxe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -10977,7 +10977,7 @@ ItemLevel < 28
 BaseType "Double Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -10987,7 +10987,7 @@ ItemLevel < 33
 BaseType "Gilded Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -11001,7 +11001,7 @@ ItemLevel < 41
 BaseType "Shadow Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -11013,7 +11013,7 @@ ItemLevel < 59
 BaseType "Dagger Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 37
@@ -11021,7 +11021,7 @@ ItemLevel < 41
 BaseType "Jasper Chopper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -11031,7 +11031,7 @@ ItemLevel < 45
 BaseType "Timber Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -11045,7 +11045,7 @@ ItemLevel < 49
 BaseType "Headsman Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -11055,7 +11055,7 @@ ItemLevel < 52
 BaseType "Labrys"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -11065,7 +11065,7 @@ ItemLevel < 55
 BaseType "Noble Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -11075,7 +11075,7 @@ ItemLevel < 58
 BaseType "Abyssal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -11085,7 +11085,7 @@ ItemLevel < 60
 BaseType "Karui Chopper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -11097,7 +11097,7 @@ ItemLevel < 70
 BaseType "Talon Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -11107,7 +11107,7 @@ ItemLevel < 62
 BaseType "Sundering Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -11117,7 +11117,7 @@ ItemLevel < 63
 BaseType "Ezomyte Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 63
@@ -11125,7 +11125,7 @@ ItemLevel < 64
 BaseType "Butcher Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -11134,7 +11134,7 @@ DropLevel >= 64
 BaseType "Vaal Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -11143,7 +11143,7 @@ DropLevel >= 66
 BaseType "Despot Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -11152,7 +11152,7 @@ DropLevel >= 68
 BaseType "Void Axe"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -11161,7 +11161,7 @@ DropLevel >= 70
 BaseType "Fleshripper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ####END 2H AXES BY DROP TIER######
 
@@ -11181,7 +11181,7 @@ ItemLevel < 6
 BaseType "Driftwood Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -11191,7 +11191,7 @@ ItemLevel < 12
 BaseType "Goat's Horn"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -11201,7 +11201,7 @@ ItemLevel < 18
 BaseType "Carved Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -11211,7 +11211,7 @@ ItemLevel < 24
 BaseType "Quartz Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -11221,7 +11221,7 @@ ItemLevel < 30
 BaseType "Spiraled Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -11231,7 +11231,7 @@ ItemLevel < 34
 BaseType "Sage Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -11243,7 +11243,7 @@ ItemLevel < 55
 BaseType "Pagan Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 35
@@ -11251,7 +11251,7 @@ ItemLevel < 40
 BaseType "Faun's Horn"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -11261,7 +11261,7 @@ ItemLevel < 45
 BaseType "Engraved Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -11271,7 +11271,7 @@ ItemLevel < 49
 BaseType "Crystal Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -11281,7 +11281,7 @@ ItemLevel < 53
 BaseType "Serpent Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -11291,7 +11291,7 @@ ItemLevel < 56
 BaseType "Omen Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -11301,7 +11301,7 @@ ItemLevel < 70
 BaseType "Heathen Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -11311,7 +11311,7 @@ ItemLevel < 59
 BaseType "Demon's Horn"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -11321,7 +11321,7 @@ ItemLevel < 62
 BaseType "Imbued Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -11330,7 +11330,7 @@ DropLevel >= 62
 BaseType "Opal Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -11339,7 +11339,7 @@ DropLevel >= 65
 BaseType "Tornado Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -11348,7 +11348,7 @@ DropLevel >= 68
 BaseType "Prophecy Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -11357,7 +11357,7 @@ DropLevel >= 70
 BaseType "Profane Wand"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ####END WANDS BY DROP TIER###
 
@@ -11375,7 +11375,7 @@ ItemLevel < 5
 BaseType "Glass Shank"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -11385,7 +11385,7 @@ ItemLevel < 10
 BaseType "Skinning Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -11395,7 +11395,7 @@ ItemLevel < 15
 BaseType "Carving Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -11405,7 +11405,7 @@ ItemLevel < 20
 BaseType "Stiletto"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -11415,7 +11415,7 @@ ItemLevel < 24
 BaseType "Boot Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -11425,7 +11425,7 @@ ItemLevel < 28
 BaseType "Copper Kris"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -11435,7 +11435,7 @@ ItemLevel < 32
 BaseType "Skean"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -11445,7 +11445,7 @@ ItemLevel < 35
 BaseType "Imp Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -11457,7 +11457,7 @@ ItemLevel < 55
 BaseType "Prong Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 35
@@ -11465,7 +11465,7 @@ ItemLevel < 38
 BaseType "Flaying Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -11475,7 +11475,7 @@ ItemLevel < 41
 BaseType "Butcher Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -11485,7 +11485,7 @@ ItemLevel < 44
 BaseType "Poignard"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -11495,7 +11495,7 @@ ItemLevel < 47
 BaseType "Boot Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -11505,7 +11505,7 @@ ItemLevel < 50
 BaseType "Golden Kris"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -11515,7 +11515,7 @@ ItemLevel < 53
 BaseType "Royal Skean"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -11525,7 +11525,7 @@ ItemLevel < 56
 BaseType "Fiend Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -11536,7 +11536,7 @@ ItemLevel < 70
 BaseType "Trisula"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 56
@@ -11544,7 +11544,7 @@ ItemLevel < 58
 BaseType "Gutting Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -11554,7 +11554,7 @@ ItemLevel < 60
 BaseType "Slaughter Knife"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -11564,7 +11564,7 @@ ItemLevel < 62
 BaseType "Ambusher"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -11574,7 +11574,7 @@ ItemLevel < 64
 BaseType "Ezomyte Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -11583,7 +11583,7 @@ DropLevel >= 64
 BaseType "Platinum Kris"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -11592,7 +11592,7 @@ DropLevel >= 66
 BaseType "Imperial Skean"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -11601,7 +11601,7 @@ DropLevel >= 68
 BaseType "Demon Dagger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 
@@ -11610,7 +11610,7 @@ DropLevel >= 70
 BaseType "Sai"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ####END DAGGERS BY DROP TIER####
 
@@ -11628,7 +11628,7 @@ ItemLevel < 7
 BaseType "Nailed Fist"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -11638,7 +11638,7 @@ ItemLevel < 12
 BaseType "Sharktooth Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -11648,7 +11648,7 @@ ItemLevel < 17
 BaseType "Awl"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -11658,7 +11658,7 @@ ItemLevel < 22
 BaseType "Cat's Paw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -11668,7 +11668,7 @@ ItemLevel < 26
 BaseType "Blinder"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -11678,7 +11678,7 @@ ItemLevel < 30
 BaseType "Timeworn Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -11688,7 +11688,7 @@ ItemLevel < 34
 BaseType "Sparkling Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -11698,7 +11698,7 @@ ItemLevel < 37
 BaseType "Fright Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -11709,7 +11709,7 @@ ItemLevel < 57
 BaseType "Double Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 37
@@ -11717,7 +11717,7 @@ ItemLevel < 40
 BaseType "Thresher Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -11727,7 +11727,7 @@ ItemLevel < 43
 BaseType "Gouger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -11737,7 +11737,7 @@ ItemLevel < 46
 BaseType "Tiger's Paw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -11747,7 +11747,7 @@ ItemLevel < 49
 BaseType "Gut Ripper"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -11757,7 +11757,7 @@ ItemLevel < 52
 BaseType "Prehistoric Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -11767,7 +11767,7 @@ ItemLevel < 55
 BaseType "Noble Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -11777,7 +11777,7 @@ ItemLevel < 58
 BaseType "Eagle Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -11788,7 +11788,7 @@ ItemLevel < 72
 BaseType "Twin Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 Show
@@ -11797,7 +11797,7 @@ ItemLevel < 60
 BaseType "Great White Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -11807,7 +11807,7 @@ ItemLevel < 62
 BaseType "Throat Stabber"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -11817,7 +11817,7 @@ ItemLevel < 64
 BaseType "Hellion's Paw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -11827,7 +11827,7 @@ ItemLevel < 66
 BaseType "Eye Gouger"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -11836,7 +11836,7 @@ DropLevel >= 66
 BaseType "Vaal Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -11845,7 +11845,7 @@ DropLevel >= 68
 BaseType "Imperial Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -11854,7 +11854,7 @@ DropLevel >= 70
 BaseType "Terror Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ##MARAKETH##
 Show
@@ -11862,7 +11862,7 @@ DropLevel >= 72
 BaseType "Gemini Claw"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ####END CLAWS BY DROP TIER#####
 
@@ -11880,7 +11880,7 @@ ItemLevel < 5
 BaseType "Driftwood Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -11890,7 +11890,7 @@ ItemLevel < 10
 BaseType "Tribal Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -11900,7 +11900,7 @@ ItemLevel < 15
 BaseType "Spiked Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -11910,7 +11910,7 @@ ItemLevel < 20
 BaseType "Stone Hammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -11920,7 +11920,7 @@ ItemLevel < 24
 BaseType "War Hammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -11930,7 +11930,7 @@ ItemLevel < 28
 BaseType "Bladed Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -11940,7 +11940,7 @@ ItemLevel < 32
 BaseType "Ceremonial Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -11950,7 +11950,7 @@ ItemLevel < 35
 BaseType "Dream Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -11961,7 +11961,7 @@ ItemLevel < 55
 BaseType "Wyrm Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 35
@@ -11969,7 +11969,7 @@ ItemLevel < 38
 BaseType "Petrified Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -11979,7 +11979,7 @@ ItemLevel < 41
 BaseType "Barbed Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -11989,7 +11989,7 @@ ItemLevel < 44
 BaseType "Rock Breaker"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -11999,7 +11999,7 @@ ItemLevel < 47
 BaseType "Battle Hammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -12009,7 +12009,7 @@ ItemLevel < 50
 BaseType "Flanged Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -12019,7 +12019,7 @@ ItemLevel < 53
 BaseType "Ornate Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -12029,7 +12029,7 @@ ItemLevel < 56
 BaseType "Phantom Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -12040,7 +12040,7 @@ ItemLevel < 70
 BaseType "Dragon Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 56
@@ -12048,7 +12048,7 @@ ItemLevel < 58
 BaseType "Ancestral Club"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -12058,7 +12058,7 @@ ItemLevel < 60
 BaseType "Tenderizer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -12068,7 +12068,7 @@ ItemLevel < 62
 BaseType "Gavel"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 #18#
@@ -12079,7 +12079,7 @@ ItemLevel < 64
 BaseType "Legion Hammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -12088,7 +12088,7 @@ DropLevel >= 64
 BaseType "Pernarch"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -12097,7 +12097,7 @@ DropLevel >= 66
 BaseType "Auric Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -12106,7 +12106,7 @@ DropLevel >= 68
 BaseType "Nightmare Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -12114,7 +12114,7 @@ DropLevel >= 70
 BaseType "Behemoth Mace"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END 1H MACES BY DROP TIER####
 
@@ -12132,7 +12132,7 @@ ItemLevel < 5
 BaseType "Driftwood Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -12142,7 +12142,7 @@ ItemLevel < 10
 BaseType "Darkwood Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -12152,7 +12152,7 @@ ItemLevel < 15
 BaseType "Bronze Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -12162,7 +12162,7 @@ ItemLevel < 20
 BaseType "Quartz Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -12172,7 +12172,7 @@ ItemLevel < 24
 BaseType "Iron Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -12182,7 +12182,7 @@ ItemLevel < 28
 BaseType "Ochre Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -12192,7 +12192,7 @@ ItemLevel < 32
 BaseType "Ritual Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -12202,7 +12202,7 @@ ItemLevel < 35
 BaseType "Shadow Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -12212,7 +12212,7 @@ ItemLevel < 38
 BaseType "Grinning Fetish"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -12223,7 +12223,7 @@ ItemLevel < 55
 BaseType "Horned Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 38
@@ -12231,7 +12231,7 @@ ItemLevel < 41
 BaseType "Sekhem"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -12241,7 +12241,7 @@ ItemLevel < 44
 BaseType "Crystal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -12251,7 +12251,7 @@ ItemLevel < 47
 BaseType "Lead Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -12261,7 +12261,7 @@ ItemLevel < 50
 BaseType "Blood Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -12271,7 +12271,7 @@ ItemLevel < 53
 BaseType "Royal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -12281,7 +12281,7 @@ ItemLevel < 56
 BaseType "Abyssal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -12292,7 +12292,7 @@ ItemLevel < 70
 BaseType "Stag Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 56
@@ -12300,7 +12300,7 @@ ItemLevel < 58
 BaseType "Karui Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -12310,7 +12310,7 @@ ItemLevel < 60
 BaseType "Tyrant's Sekhem"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -12320,7 +12320,7 @@ ItemLevel < 62
 BaseType "Opal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -12330,7 +12330,7 @@ ItemLevel < 64
 BaseType "Platinum Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -12339,7 +12339,7 @@ DropLevel >= 64
 BaseType "Vaal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -12348,7 +12348,7 @@ DropLevel >= 66
 BaseType "Carnal Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -12357,7 +12357,7 @@ DropLevel >= 68
 BaseType "Void Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -12365,7 +12365,7 @@ DropLevel >= 70
 BaseType "Sambar Sceptre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END SCEPTRES BY DROP TIER####
 
@@ -12383,7 +12383,7 @@ ItemLevel < 5
 BaseType "Rusted Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -12393,7 +12393,7 @@ ItemLevel < 10
 BaseType "Copper Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -12403,7 +12403,7 @@ ItemLevel < 15
 BaseType "Sabre"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -12413,7 +12413,7 @@ ItemLevel < 20
 BaseType "Broad Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -12423,7 +12423,7 @@ ItemLevel < 24
 BaseType "War Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -12433,7 +12433,7 @@ ItemLevel < 28
 BaseType "Ancient Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -12443,7 +12443,7 @@ ItemLevel < 32
 BaseType "Elegant Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -12453,7 +12453,7 @@ ItemLevel < 35
 BaseType "Dusk Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -12464,7 +12464,7 @@ ItemLevel < 55
 BaseType "Hook Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 35
@@ -12472,7 +12472,7 @@ ItemLevel < 38
 BaseType "Variscite Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -12482,7 +12482,7 @@ ItemLevel < 41
 BaseType "Cutlass"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -12492,7 +12492,7 @@ ItemLevel < 44
 BaseType "Baselard"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -12502,7 +12502,7 @@ ItemLevel < 47
 BaseType "Battle Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -12512,7 +12512,7 @@ ItemLevel < 50
 BaseType "Elder Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -12522,7 +12522,7 @@ ItemLevel < 53
 BaseType "Graceful Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -12532,7 +12532,7 @@ ItemLevel < 56
 BaseType "Twilight Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -12543,7 +12543,7 @@ ItemLevel < 70
 BaseType "Grappler"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 56
@@ -12551,7 +12551,7 @@ ItemLevel < 58
 BaseType "Gemstone Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -12561,7 +12561,7 @@ ItemLevel < 60
 BaseType "Corsair Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -12571,7 +12571,7 @@ ItemLevel < 62
 BaseType "Gladius"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -12581,7 +12581,7 @@ ItemLevel < 64
 BaseType "Legion Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -12590,7 +12590,7 @@ DropLevel >= 64
 BaseType "Vaal Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -12599,7 +12599,7 @@ DropLevel >= 66
 BaseType "Eternal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -12608,7 +12608,7 @@ DropLevel >= 68
 BaseType "Midnight Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 
 ###MARAKETH###
@@ -12617,7 +12617,7 @@ DropLevel >= 70
 BaseType "Tiger Hook"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END GENERIC 1H SWORDS BY DROP TIER####
 
@@ -12635,7 +12635,7 @@ ItemLevel < 7
 BaseType "Rusted Spike"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -12645,7 +12645,7 @@ ItemLevel < 12
 BaseType "Whalebone Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -12655,7 +12655,7 @@ ItemLevel < 17
 BaseType "Battered Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -12665,7 +12665,7 @@ ItemLevel < 22
 BaseType "Basket Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -12675,7 +12675,7 @@ ItemLevel < 26
 BaseType "Jagged Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -12685,7 +12685,7 @@ ItemLevel < 30
 BaseType "Antique Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -12695,7 +12695,7 @@ ItemLevel < 34
 BaseType "Elegant Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -12705,7 +12705,7 @@ ItemLevel < 37
 BaseType "Thorn Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -12716,7 +12716,7 @@ ItemLevel < 57
 BaseType "Smallsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 37
@@ -12724,7 +12724,7 @@ ItemLevel < 40
 BaseType "Wyrmbone Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -12734,7 +12734,7 @@ ItemLevel < 43
 BaseType "Burnished Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -12744,7 +12744,7 @@ ItemLevel < 46
 BaseType "Estoc"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -12754,7 +12754,7 @@ ItemLevel < 49
 BaseType "Serrated Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -12764,7 +12764,7 @@ ItemLevel < 52
 BaseType "Primeval Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -12774,7 +12774,7 @@ ItemLevel < 55
 BaseType "Fancy Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -12784,7 +12784,7 @@ ItemLevel < 58
 BaseType "Apex Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -12795,7 +12795,7 @@ ItemLevel < 72
 BaseType "Courtesan Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 58
@@ -12803,7 +12803,7 @@ ItemLevel < 60
 BaseType "Dragonbone Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -12813,7 +12813,7 @@ ItemLevel < 62
 BaseType "Tempered Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -12823,7 +12823,7 @@ ItemLevel < 64
 BaseType "Pecoraro"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -12833,7 +12833,7 @@ ItemLevel < 66
 BaseType "Spiraled Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150   
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -12842,7 +12842,7 @@ DropLevel >= 66
 BaseType "Vaal Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -12851,7 +12851,7 @@ DropLevel >= 68
 BaseType "Jewelled Foil"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -12860,7 +12860,7 @@ DropLevel >= 70
 BaseType "Harpy Rapier"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -12868,7 +12868,7 @@ DropLevel >= 72
 BaseType "Dragoon Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END THRUSTING SWORDS BY DROP TIER####
 
@@ -12886,7 +12886,7 @@ ItemLevel < 8
 BaseType "Driftwood Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -12896,7 +12896,7 @@ ItemLevel < 12
 BaseType "Tribal Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -12906,7 +12906,7 @@ ItemLevel < 17
 BaseType "Mallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -12916,7 +12916,7 @@ ItemLevel < 22
 BaseType "Sledgehammer"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -12926,7 +12926,7 @@ ItemLevel < 27
 BaseType "Jagged Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -12936,7 +12936,7 @@ ItemLevel < 32
 BaseType "Brass Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -12946,7 +12946,7 @@ ItemLevel < 36
 BaseType "Fright Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -12957,7 +12957,7 @@ ItemLevel < 56
 BaseType "Morning Star"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 36
@@ -12965,7 +12965,7 @@ ItemLevel < 40
 BaseType "Totemic Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -12975,7 +12975,7 @@ ItemLevel < 44
 BaseType "Great Mallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -12985,7 +12985,7 @@ ItemLevel < 48
 BaseType "Steelhead"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -12995,7 +12995,7 @@ ItemLevel < 51
 BaseType "Spiny Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -13005,7 +13005,7 @@ ItemLevel < 54
 BaseType "Plated Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -13015,7 +13015,7 @@ ItemLevel < 57
 BaseType "Dread Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -13026,7 +13026,7 @@ ItemLevel < 69
 BaseType "Solar Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 57
@@ -13034,7 +13034,7 @@ ItemLevel < 59
 BaseType "Karui Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -13044,7 +13044,7 @@ ItemLevel < 61
 BaseType "Colossus Mallet"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -13054,7 +13054,7 @@ ItemLevel < 63
 BaseType "Piledriver"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -13063,7 +13063,7 @@ DropLevel >= 63
 BaseType "Meatgrinder"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -13072,7 +13072,7 @@ DropLevel >= 65
 BaseType "Imperial Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -13081,7 +13081,7 @@ DropLevel >= 67
 BaseType "Terror Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -13089,7 +13089,7 @@ DropLevel >= 69
 BaseType "Coronal Maul"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H MACES BY DROP TIER####
 
@@ -13107,7 +13107,7 @@ ItemLevel < 8
 BaseType "Corroded Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -13117,7 +13117,7 @@ ItemLevel < 12
 BaseType "Longsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -13127,7 +13127,7 @@ ItemLevel < 17
 BaseType "Bastard Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -13137,7 +13137,7 @@ ItemLevel < 22
 BaseType "Two-Handed Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -13147,7 +13147,7 @@ ItemLevel < 27
 BaseType "Etched Greatsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -13157,7 +13157,7 @@ ItemLevel < 32
 BaseType "Ornate Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -13167,7 +13167,7 @@ ItemLevel < 36
 BaseType "Spectral Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -13178,7 +13178,7 @@ ItemLevel < 56
 BaseType "Curved Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 36
@@ -13186,7 +13186,7 @@ ItemLevel < 40
 BaseType "Butcher Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -13196,7 +13196,7 @@ ItemLevel < 44
 BaseType "Footman Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -13206,7 +13206,7 @@ ItemLevel < 48
 BaseType "Highland Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -13216,7 +13216,7 @@ ItemLevel < 51
 BaseType "Engraved Greatsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -13226,7 +13226,7 @@ ItemLevel < 54
 BaseType "Tiger Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -13236,7 +13236,7 @@ ItemLevel < 57
 BaseType "Wraith Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -13247,7 +13247,7 @@ ItemLevel < 70
 BaseType "Lithe Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 57
@@ -13255,7 +13255,7 @@ ItemLevel < 59
 BaseType "Headman's Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -13265,7 +13265,7 @@ ItemLevel < 61
 BaseType "Reaver Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -13275,7 +13275,7 @@ ItemLevel < 63
 BaseType "Ezomyte Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -13284,7 +13284,7 @@ DropLevel >= 63
 BaseType "Vaal Greatsword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -13293,7 +13293,7 @@ DropLevel >= 65
 BaseType "Lion Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -13302,7 +13302,7 @@ DropLevel >= 67
 BaseType "Infernal Sword"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -13310,7 +13310,7 @@ DropLevel >= 70
 BaseType "Exquisite Blade"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END 2H SWORDS BY DROP TIER####
 
@@ -13328,7 +13328,7 @@ ItemLevel < 9
 BaseType "Gnarled Branch"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -13338,7 +13338,7 @@ ItemLevel < 13
 BaseType "Primitive Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL###
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -13348,7 +13348,7 @@ ItemLevel < 18
 BaseType "Long Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -13358,7 +13358,7 @@ ItemLevel < 23
 BaseType "Iron Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -13368,7 +13368,7 @@ ItemLevel < 28
 BaseType "Coiled Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -13378,7 +13378,7 @@ ItemLevel < 33
 BaseType "Royal Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -13388,7 +13388,7 @@ ItemLevel < 37
 BaseType "Vile Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -13399,7 +13399,7 @@ ItemLevel < 57
 BaseType "Crescent Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 37
@@ -13407,7 +13407,7 @@ ItemLevel < 41
 BaseType "Woodful Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -13417,7 +13417,7 @@ ItemLevel < 45
 BaseType "Quarterstaff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -13427,7 +13427,7 @@ ItemLevel < 49
 BaseType "Military Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -13437,7 +13437,7 @@ ItemLevel < 52
 BaseType "Serpentine Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -13447,7 +13447,7 @@ ItemLevel < 55
 BaseType "Highborn Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -13457,7 +13457,7 @@ ItemLevel < 58
 BaseType "Foul Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -13468,7 +13468,7 @@ ItemLevel < 70
 BaseType "Moon Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 58
@@ -13476,7 +13476,7 @@ ItemLevel < 60
 BaseType "Primordial Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -13486,7 +13486,7 @@ ItemLevel < 62
 BaseType "Lathi"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -13496,7 +13496,7 @@ ItemLevel < 64
 BaseType "Ezomyte Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -13505,7 +13505,7 @@ DropLevel >= 64
 BaseType Maelstr
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -13514,7 +13514,7 @@ DropLevel >= 66
 BaseType "Imperial Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -13523,7 +13523,7 @@ DropLevel >= 68
 BaseType "Judgement Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -13531,7 +13531,7 @@ DropLevel >= 70
 BaseType "Eclipse Staff"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END STAVES BY DROP TIER####
 
@@ -13549,7 +13549,7 @@ ItemLevel < 5
 BaseType "Crude Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #1#
 
@@ -13559,7 +13559,7 @@ ItemLevel < 9
 BaseType "Short Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #2#
 
@@ -13569,7 +13569,7 @@ ItemLevel < 14
 BaseType "Long Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #3#
 
@@ -13579,7 +13579,7 @@ ItemLevel < 18
 BaseType "Composite Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #4#
 
@@ -13589,7 +13589,7 @@ ItemLevel < 23
 BaseType "Recurve Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #5#
 
@@ -13599,7 +13599,7 @@ ItemLevel < 28
 BaseType "Bone Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #6#
 
@@ -13609,7 +13609,7 @@ ItemLevel < 32
 BaseType "Royal Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #7#
 
@@ -13619,7 +13619,7 @@ ItemLevel < 35
 BaseType "Death Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #8#
 
@@ -13629,7 +13629,7 @@ ItemLevel < 38
 BaseType "Grove Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #9#
 
@@ -13640,7 +13640,7 @@ ItemLevel < 57
 BaseType "Reflex Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 38
@@ -13648,7 +13648,7 @@ ItemLevel < 41
 BaseType "Decurve Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #10#
 
@@ -13658,7 +13658,7 @@ ItemLevel < 44
 BaseType "Compound Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #11#
 
@@ -13668,7 +13668,7 @@ ItemLevel < 47
 BaseType "Sniper Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #12#
 
@@ -13678,7 +13678,7 @@ ItemLevel < 50
 BaseType "Ivory Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #13#
 
@@ -13688,7 +13688,7 @@ ItemLevel < 53
 BaseType "Highborn Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #14#
 
@@ -13698,7 +13698,7 @@ ItemLevel < 56
 BaseType "Decimation Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #15#
 
@@ -13708,7 +13708,7 @@ ItemLevel < 58
 BaseType "Thicket Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #16#
 
@@ -13719,7 +13719,7 @@ ItemLevel < 71
 BaseType "Steelwood Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 Show
 DropLevel >= 58
@@ -13727,7 +13727,7 @@ ItemLevel < 60
 BaseType "Citadel Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #17#
 
@@ -13737,7 +13737,7 @@ ItemLevel < 62
 BaseType "Ranger Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #18#
 
@@ -13747,7 +13747,7 @@ ItemLevel < 64
 BaseType "Assassin Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #19#
 
@@ -13756,7 +13756,7 @@ DropLevel >= 64
 BaseType "Spine Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #20#
 
@@ -13765,7 +13765,7 @@ DropLevel >= 66
 BaseType "Imperial Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #21#
 
@@ -13774,7 +13774,7 @@ DropLevel >= 68
 BaseType "Harbinger Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 ###MARAKETH###
 Show
@@ -13782,7 +13782,7 @@ DropLevel >= 71
 BaseType "Maraketh Bow"
 SetBackgroundColor 0 40 0 220  ##TOP BASE FOR LEVEL### 
 SetBorderColor 0 120 0 150    
-SetFontSize 32
+SetFontSize 30
 
 #####END BOWS BY DROP TIER####
 
@@ -13841,7 +13841,7 @@ Show
 	SetBorderColor 25 255 255
 Class Ring Amulet Belt Quiver
 SetBackgroundColor 40 90 80  ##BEST FOR CRAFTING###    
-SetFontSize 26
+SetFontSize 28
 
 Show
 Rarity Rare
@@ -13899,8 +13899,8 @@ Show
     Class Ring Amulet Belt Quiver
     Rarity Rare
 	SetBorderColor 90 90 90
-        	SetBackgroundColor 0 0 40
-    	SetFontSize 26    
+        	SetBackgroundColor 0 0 80
+    	SetFontSize 32    
 
 Show
     Class Ring Amulet Belt Quiver
@@ -13937,6 +13937,15 @@ ItemLevel < 22
 SetFontSize 20
 SetBackgroundColor 20 0 0 210
 SetBorderColor 40 0 0
+
+Show # Minimize junk instead of hiding (if "Show")
+Rarity Rare
+Class Dagger Wand Boots
+ItemLevel < 68
+ItemLevel < 84
+SetFontSize 28
+SetBackgroundColor 0 0 80 230
+SetBorderColor 80 80 80
 
 Show # Minimize junk instead of hiding (if "Show")
 Rarity Rare
