@@ -310,7 +310,7 @@ Show
 Show
     BaseType "Scouring" "Regret" "Cartographer's Seal" "Unshaping Orb"
     	SetBorderColor 210 210 210
-	PlayeAlertSound 7 300
+	PlayAlertSound 7 300
 	SetBackgroundColor 140 140 140
 	SetTextColor 255 255 255
 	SetFontSize 28
