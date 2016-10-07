@@ -38,14 +38,14 @@ Show
 	SetTextColor 255 30 10
 	SetBackgroundColor 255 255 255
 	SetBorderColor 200 20 20
-	PlayAlertSound 7 300
+	PlayAlertSound 4 300
 
 Show
    BaseType Feather
 	SetFontSize 80
 	SetBackgroundColor 255 255 255
 	SetBorderColor 200 20 20
-	PlayAlertSound 7 300
+	PlayAlertSound 4 300
 
 Show
    Class Quest
@@ -85,6 +85,7 @@ Show
    Class Gem
     BaseType "Vaal"
 Quality > 0
+    PlayAlertSound 3 150
     SetBorderColor 150 200 240
     SetBackgroundColor 60 20 30
     SetFontSize 26
@@ -99,6 +100,7 @@ Show
     Class Gem
     BaseType "Empower" "Enlighten" "Enhance" "Portal" "Added Chaos" "Detonate Mines"
     Quality > 0
+    PlayAlertSound 3 150
    	SetBorderColor 150 200 240
 	SetBackgroundColor 200 200 200 200
 	SetTextColor 0 0 0
@@ -116,6 +118,7 @@ Show
    Class Gem
    BaseType Support
    Quality > 0
+    PlayAlertSound 3 150
     SetBorderColor 150 200 240
     SetBackgroundColor 0 30 70
     SetFontSize 26
@@ -129,6 +132,7 @@ BaseType Support
 Show
    Class Gem
    Quality > 0
+    PlayAlertSound 3 150
     SetBorderColor 150 200 240
     SetBackgroundColor 0 30 30
     SetFontSize 26
@@ -291,6 +295,7 @@ Show
    BaseType "Chance"
    	SetBorderColor 150 80 50
     	SetTextColor 0 0 0
+	PlayAlertSound 7 150
 	SetBackgroundColor 250 180 120
 	SetFontSize 28
 
@@ -298,12 +303,14 @@ Show
    BaseType "Alchemy" "Blessed Orb"
 	SetBorderColor 160 20 20
 	SetTextColor 210 210 10
+	PlayAlertSound 7 200
 	SetBackgroundColor 170 20 150
 	SetFontSize 28
 
 Show
     BaseType "Scouring" "Regret" "Cartographer's Seal" "Unshaping Orb"
     	SetBorderColor 210 210 210
+	PlayeAlertSound 7 300
 	SetBackgroundColor 140 140 140
 	SetTextColor 255 255 255
 	SetFontSize 28
@@ -319,14 +326,15 @@ Show
    BaseType "Chisel" "Gemcutter's Prism" 
 Class Currency
     	SetBorderColor 110 110 210
-	PlayAlertSound 7 300
+	PlayAlertSound 3 300
     	SetBackgroundColor 150 200 240
 	SetTextColor 0 0 0
 	SetFontSize 28
 
 Show 
-    BaseType "Stone Hammer" "Rock Breaker" 
+    BaseType "Stone Hammer" "Rock Breaker" "Gavel"
     Rarity Normal
+	PlayAlertSound 3 100
 	SetBorderColor 150 200 240
  	SetBackgroundColor 30 0 0
     SetFontSize 26
@@ -336,14 +344,14 @@ Show
 	SetBorderColor 255 200 200
     	SetBackgroundColor 255 230 230
 	SetTextColor 200 20 20
-	PlayAlertSound 3 300
+	PlayAlertSound 1 300
 	SetFontSize 32
 
 Show
    BaseType "Regal Orb"
     	SetBorderColor 70 70 255
     	SetBackgroundColor 205 205 255
-	PlayAlertSound 3 200
+	PlayAlertSound 1 200
     	SetTextColor 0 0 255
 	SetFontSize 32
 
@@ -353,7 +361,7 @@ Show
     	SetBackgroundColor 205 255 255
     	SetTextColor 0 120 0
 	SetFontSize 35
-	PlayAlertSound 1 300
+	PlayAlertSound 4 300
 
 Show
    BaseType "Exalt"
@@ -399,6 +407,7 @@ Show
 
 Show
    BaseType "Silver Coin"
+	PlayAlertSound 7 150
    	SetBorderColor 80 0 120
    	SetBackgroundColor 90 20 160
    	SetTextColor 220 220 220
@@ -406,6 +415,7 @@ Show
 
 Show
     BaseType "Perandus Coin"
+	PlayAlertSound 7 150
 	SetBorderColor 190 190 0
     	SetBackgroundColor 150 150 0
 	SetTextColor 0 0 0
@@ -498,6 +508,7 @@ Show
 Show
     Rarity Unique
     SetFontSize 32
+    PlayAlertSound 2 250
     SetBorderColor 90 60 10
     SetBackgroundColor 20 10 0
     
@@ -506,6 +517,7 @@ Show
 Show
     BaseType "Steel Ring" "Opal Ring" "Blue Pearl Amulet" "Marble Amulet" "Vanguard Belt" "Crystal Belt" "Bone Helmet" "Two-Toned Boots" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves" 
     SetBorderColor 215 115 210
+    PlayAlertSound 2 300
     SetBackgroundColor 190 60 250 180
     SetFontSize 30
 
@@ -524,7 +536,7 @@ Show
     Class Divination
     BaseType "The Fox" "Lucky Deck" "Treasure Hunter" "Vinia's Token" "The Stormcaller" "The Penitent" "The Trial" "Earth Drinker" "The Surveyor" "Death" "Dialla's Subjugation" "The Enlightened"
     SetBorderColor 150 50 10
-    SetBackgroundColor 200 200 0
+    SetBackgroundColor 200 100 0 220
     PlayAlertSound 5 300
     SetFontSize 36
 
@@ -533,7 +545,7 @@ Show
 Show 
     Class Divination
     SetBorderColor 150 50 10
-    PlayAlertSound 5 150
+    PlayAlertSound 5 300
 
 ######END DIVINATION CARDS########
 
@@ -1006,7 +1018,7 @@ Show
     SetFontSize 42
     SetBackgroundColor 250 30 50
     SetBorderColor 230 40 90
-	PlayAlertSound 2 300
+	PlayAlertSound 4 300
 
 Show
    Sockets = 6
@@ -1017,6 +1029,7 @@ Show
 
 Show
   	LinkedSockets = 5
+	PlayAlertSound 6 300
       	SetBackgroundColor 50 10 20
 	SetBorderColor 230 120 50
 	SetFontSize 26
