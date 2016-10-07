@@ -114,7 +114,7 @@ Show
 	SetFontSize 28
 
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Class Gem
    BaseType Support
    Quality > 0
@@ -125,11 +125,20 @@ Show
 
 Show
    Class Gem
+   BaseType Support
+   Quality > 10
+    PlayAlertSound 3 150
+    SetBorderColor 150 200 240
+    SetBackgroundColor 0 30 70
+    SetFontSize 26
+
+Show # Strict (Change Show to Hide if you only want top tier items shown)
+   Class Gem
 BaseType Support
 	SetFontSize 24
     	SetBackgroundColor 0 30 70
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Class Gem
    Quality > 0
     PlayAlertSound 3 150
@@ -138,6 +147,14 @@ Show
     SetFontSize 26
 
 Show
+   Class Gem
+   Quality > 10
+    PlayAlertSound 3 150
+    SetBorderColor 150 200 240
+    SetBackgroundColor 0 30 30
+    SetFontSize 26
+
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Class Gem
 	SetFontSize 24
     	SetBackgroundColor 0 30 30
@@ -255,7 +272,7 @@ Show
 
 ##########CURRENCY#############
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    BaseType "Wisdom" "Portal"
    	SetBorderColor 0 0 0
     	SetBackgroundColor 20 20 0
@@ -334,6 +351,15 @@ Class Currency
 Show 
     BaseType "Stone Hammer" "Rock Breaker" "Gavel"
     Rarity Normal
+	PlayAlertSound 3 100
+	SetBorderColor 150 200 240
+ 	SetBackgroundColor 30 0 0
+    SetFontSize 26
+
+Show 
+    BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+    Rarity Magic
+	Quality >= 12
 	PlayAlertSound 3 100
 	SetBorderColor 150 200 240
  	SetBackgroundColor 30 0 0
@@ -429,6 +455,7 @@ Show
     Class Currency
     BaseType "Whispering Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 255 255
     SetBackgroundColor 20 10 50
@@ -437,6 +464,7 @@ Show
     Class Currency
     BaseType "Muttering Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 255 200
     SetBackgroundColor 20 10 50
@@ -445,6 +473,7 @@ Show
     Class Currency
     BaseType "Weeping Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 200 200
     SetBackgroundColor 20 10 50
@@ -453,6 +482,7 @@ Show
     Class Currency
     BaseType "Wailing Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 200 150
     SetBackgroundColor 20 10 50
@@ -461,6 +491,7 @@ Show
     Class Currency
     BaseType "Screaming Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 150 150
     SetBackgroundColor 20 10 50
@@ -469,6 +500,7 @@ Show
     Class Currency
     BaseType "Shrieking Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 150 100
     SetBackgroundColor 20 10 50
@@ -477,6 +509,7 @@ Show
     Class Currency
     BaseType "Deafening Essence" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 100 100
     SetBackgroundColor 20 10 50
@@ -485,6 +518,7 @@ Show
     Class Currency
     BaseType "Remnant" 
     SetFontSize 30
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
     SetTextColor 255 50 0
     SetBackgroundColor 20 10 50
@@ -492,9 +526,10 @@ Show
 Show 
     Class Currency
     BaseType "Essence" 
-    SetFontSize 30
+    SetFontSize 35
+    PlayAlertSound 8 300
     SetBorderColor 10 150 250
-    SetTextColor 0 0 0
+    SetTextColor 220 0 220
     SetBackgroundColor 20 10 50
 
 #"Whispering" "Muttering" "Weeping" "Wailing" "Screaming" "Shrieking" "Deafening" "Remnant"#
@@ -504,6 +539,22 @@ Show
 ##############END CURRENCY################
     
 ###UNIQUE PRIORITY###
+
+Show
+    Rarity Unique
+    LinkedSockets >= 5
+    PlayAlertSound 2 300
+    SetFontSize 42
+    SetBackgroundColor 250 30 50
+    SetBorderColor 230 40 90
+
+Show
+    Rarity Unique
+    SetFontSize 32
+    Sockets = 6
+    PlayAlertSound 2 300
+    SetBorderColor 110 180 180
+    SetBackgroundColor 20 10 0
 
 Show
     Rarity Unique
@@ -565,9 +616,16 @@ Show
 
 ######QUALITY FLASKS#######
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
    Class Flask
    Quality > 0
+      SetBorderColor 170 130 20
+      SetBackgroundColor 0 0 0
+      SetFontSize 28
+
+Show 
+   Class Flask
+   Quality > 15
       SetBorderColor 170 130 20
       SetBackgroundColor 0 0 0
       SetFontSize 28
@@ -1004,7 +1062,7 @@ Show
 
 #SHOW WHATEVER FLASKS REMAIN#
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
 	BaseType Flask
 	SetFontSize 24
 	Rarity <= Magic
@@ -1042,7 +1100,7 @@ Rarity < Unique
 	SetFontSize 28
 	PlayAlertSound 9 300
 
-Show
+Show # Strict (Change Show to Hide if you only want top tier items shown)
 	LinkedSockets = 4
       	SetBackgroundColor 0 0 0
 	SetBorderColor 230 140 190
@@ -1101,6 +1159,7 @@ Show
     	SetTextColor 250 180 120
 	SetBackgroundColor 0 40 0 220 #TOP TIER BASES#
     	SetBorderColor 250 180 120
+	PlayAlertSound 2 100
     	SetFontSize 22
 
 ###END CHANCING###
