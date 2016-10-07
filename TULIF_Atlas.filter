@@ -536,7 +536,7 @@ Show
     Class Divination
     BaseType "The Fox" "Lucky Deck" "Treasure Hunter" "Vinia's Token" "The Stormcaller" "The Penitent" "The Trial" "Earth Drinker" "The Surveyor" "Death" "Dialla's Subjugation" "The Enlightened"
     SetBorderColor 150 50 10
-    SetBackgroundColor 200 100 0 220
+    SetBackgroundColor 240 240 100
     PlayAlertSound 5 300
     SetFontSize 36
 
