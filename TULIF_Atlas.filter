@@ -196,6 +196,7 @@ Show
 Show
     Class Map
     BaseType Shaped
+    PlayAlertSound 8 300
     SetBorderColor 120 40 200
     SetBackgroundColor 60 10 80
     SetFontSize 38
@@ -208,6 +209,7 @@ Show
     Class Map
     BaseType "Beacon"
     SetFontSize 38
+    PlayAlertSound 8 300
    SetBackgroundColor 60 0 0
 SetBorderColor 175 30 30
 SetFontSize 22
@@ -218,6 +220,7 @@ Show
     Class Map
     BaseType "Shipyard"
        SetFontSize 38
+    PlayAlertSound 8 300
     SetBackgroundColor 60 0 0
 SetBorderColor 70 70 175
 SetFontSize 22
@@ -227,6 +230,7 @@ Show
     Class Map
     BaseType "Sulphur Wastes"
     SetFontSize 38
+    PlayAlertSound 8 300
     SetBackgroundColor 60 0 0
 SetBorderColor 25 150 90
 SetFontSize 22
@@ -237,6 +241,7 @@ Show
     Class Map
     BaseType "Overgrown Ruin"
     SetFontSize 38
+    PlayAlertSound 8 300
     SetBorderColor 255 0 220
     SetBackgroundColor 60 0 0
 
@@ -246,6 +251,7 @@ Show
    Class Map
    Rarity Unique
     SetFontSize 36
+    PlayAlertSound 8 300
     SetBackgroundColor 40 45 60
     
 ####FRAGMENTS###########
@@ -269,6 +275,7 @@ Show
     Class Map
     DropLevel < 73
     SetFontSize 30
+    PlayAlertSound 8 100
     SetBorderColor 255 255 255
     SetBackgroundColor 50 50 50
     
@@ -277,6 +284,7 @@ Show
     DropLevel >= 73
     DropLevel < 78
     SetFontSize 34
+    PlayAlertSound 8 200
     SetBorderColor 255 255 0
     SetBackgroundColor 60 60 0
     
@@ -284,11 +292,13 @@ Show
     Class Map
     DropLevel >= 78
     SetFontSize 38
+    PlayAlertSound 8 300
     SetBorderColor 255 0 0
     SetBackgroundColor 60 0 0
 
 Show
    Class Map 
+    PlayAlertSound 8 300
     SetFontSize 30
 
 #########MAPS END###############
@@ -573,11 +583,11 @@ Show
 
 Show
     Rarity Unique
-    SetFontSize 30
+    SetFontSize 36
     Sockets = 6
     PlayAlertSound 2 300
     SetBorderColor 110 180 180
-    SetBackgroundColor 20 10 0
+    SetBackgroundColor 80 40 0
 
 Show
     Rarity Unique
