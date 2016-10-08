@@ -1122,7 +1122,7 @@ Rarity < Unique
 	SetTextColor 40 120 30
 	SetFontSize 29
 	PlayAlertSound 9 300
-	SetBackgroundColor 0 0 80
+	SetBackgroundColor 0 0 0
 
 Show # Strict (Change Show to Hide if you only want top tier items shown)
 	LinkedSockets = 4
@@ -1142,7 +1142,6 @@ ItemLevel < 24
 Rarity Normal 
 LinkedSockets = 3
 SetBackgroundColor 0 0 40
-SetTextColor 255 255 255
 	SetBorderColor 120 120 120
 	SetFontSize 26
 
@@ -1151,7 +1150,6 @@ ItemLevel < 34
 Rarity Magic 
 LinkedSockets = 3
 SetBackgroundColor 0 0 60
-SetTextColor 190 190 255
 	SetBorderColor 150 150 150
 	SetFontSize 26
 
@@ -1160,7 +1158,6 @@ ItemLevel < 42
 Rarity Rare 
 LinkedSockets = 3
 SetBackgroundColor 0 0 80
-SetTextColor 255 255 160
 	SetBorderColor 180 180 180
 	SetFontSize 29
 
