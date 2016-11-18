@@ -23211,35 +23211,43 @@ SetFontSize 34
 
 #REDBLADE#
 
-Hide
+Show
 ItemLevel >= 68
 Rarity Magic
-Identified False
+Identified True
 Class "Helmets"
 SetBorderColor 175 30 30
 SetFontSize 22
 
 #BRINEROT#
 
-Hide
+Show
 ItemLevel >= 68
 Rarity Magic
-Identified False
+Identified True
 Class "Gloves"
 SetBorderColor 70 70 175
 SetFontSize 22
 
 #MUTEWIND#
 
-Hide
+Show
 ItemLevel >= 68
 Rarity Magic
-Identified False
+Identified True
 Class "Boots"
 SetBorderColor 25 150 90
 SetFontSize 22
 
-#RENEGADE MODS ARE TOO GENERAL AND AS SUCH ARE NOT HIGHLIGHTED#
+#RENEGADE#
+
+Show
+ItemLevel >= 68
+Rarity Magic
+Identified True
+    Class "Weapon"
+    SetBorderColor 255 0 220
+    SetFontSize 22
 
 #############END WARBANDS MODS#############
 
