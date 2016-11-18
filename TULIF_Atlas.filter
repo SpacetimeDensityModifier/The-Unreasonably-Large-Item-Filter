@@ -23245,7 +23245,7 @@ Show
 ItemLevel >= 68
 Rarity Magic
 Identified True
-    Class "Axe" "Bow" "Claw" "Dagger" "Mace" "Staff" "Sword" "Wand"
+    Class "Axe" "Bow" "Claw" "Dagger" "Mace" "Staves" "Sword" "Wand"
     SetBorderColor 255 0 220
     SetFontSize 22
 
