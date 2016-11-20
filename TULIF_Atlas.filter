@@ -5014,7 +5014,7 @@ SetFontSize 24
 
 #17#
 
-Hide
+Show
 Rarity Magic
 DropLevel >= 72
 BaseType "Sacrificial Garb"
@@ -6838,7 +6838,7 @@ SetFontSize 22
 
 #17#
 
-Hide
+Show
 Rarity Normal
 DropLevel >= 72
 BaseType "Sacrificial Garb"
