@@ -450,7 +450,7 @@ Show
     SetFontSize 28
     SetTextColor 0 220 20
     SetBorderColor 240 40 40
-    SetBackgroundColor 40 0 0
+    SetBackgroundColor 70 0 0
     
     Show
     BaseType "Splinter of Tul" "Blessing of Tul"
@@ -1198,6 +1198,7 @@ Show
 	SetFontSize 30
 	SetTextColor 110 180 180
 	SetBorderColor 110 180 180
+	SetBackgroundColor 60 60 60
 	PlayAlertSound 6 300
 
 Show
@@ -1213,7 +1214,7 @@ Show
 	SetFontSize 29
 	SetTextColor 40 120 30
 	SetBorderColor 40 120 30
-	SetBackgroundColor 0 0 0
+	SetBackgroundColor 60 60 60
 	PlayAlertSound 9 300
 
 Show # Strict (Change Show to Hide if you only want top tier items shown)
@@ -23274,13 +23275,14 @@ Show
 	SetBorderColor 25 255 255
 	SetBackgroundColor 40 90 80          ##BEST FOR CRAFTING###    
 
-Show
-	Class Dagger Wand
+Show # Minimize junk instead of hiding (if "Show")
+	Class Dagger Wand Boots
 	Rarity Rare
-	ItemLevel > 67
-	SetFontSize 26
-	SetBorderColor 120 220 120 150
-	SetBackgroundColor 0 0 60
+	ItemLevel >= 60
+	ItemLevel < 84
+	SetFontSize 28
+	SetBorderColor 80 80 80
+	SetBackgroundColor 0 0 80 230
 
 ##CHAOS + REGAL###
 
@@ -23368,15 +23370,6 @@ Show
 	SetFontSize 20
 	SetBorderColor 40 0 0
 	SetBackgroundColor 20 0 0 210
-
-Show # Minimize junk instead of hiding (if "Show")
-	Class Dagger Wand Boots
-	Rarity Rare
-	ItemLevel < 68
-	ItemLevel < 84
-	SetFontSize 28
-	SetBorderColor 80 80 80
-	SetBackgroundColor 0 0 80 230
 
 Show # Minimize junk instead of hiding (if "Show")
 	Rarity Rare
