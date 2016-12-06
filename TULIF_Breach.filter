@@ -435,6 +435,15 @@ Show
 	SetBackgroundColor 0 0 80
 	PlayAlertSound 3 100
 
+Show
+	Quality >= 16
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Rare
+	SetFontSize 26
+	SetBorderColor 150 200 240
+	SetBackgroundColor 0 0 80
+	PlayAlertSound 3 100
+
 ##BREACH##
 
 Show
