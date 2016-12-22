@@ -260,6 +260,7 @@ Show
 	SetTextColor 0 0 0
 	SetBorderColor 40 40 40
 	SetBackgroundColor 200 30 40
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -268,6 +269,7 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 240 40 40
     SetBackgroundColor 80 0 0
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -276,6 +278,7 @@ Show
 	SetTextColor 0 220 20
     SetBorderColor 0 180 0
     SetBackgroundColor 0 100 80
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -284,6 +287,7 @@ Show
 	SetTextColor 0 220 20
     SetBorderColor 0 0 180
     SetBackgroundColor 0 40 100
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -292,6 +296,7 @@ Show
 	SetTextColor 0 220 20
     SetBorderColor 0 0 0
     SetBackgroundColor 60 60 60
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -300,6 +305,7 @@ Show
 	SetTextColor 0 220 20
     SetBorderColor 120 0 120
     SetBackgroundColor 80 0 120
+PlayAlertSound 1 300
 
 Show
 	Class "Map Fragments"
@@ -460,6 +466,7 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 240 40 40
     SetBackgroundColor 70 0 0
+PlayAlertSound 1 300
     
     Show
     BaseType "Splinter of Tul" "Blessing of Tul"
@@ -467,6 +474,7 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 0 180 0
     SetBackgroundColor 0 100 80
+PlayAlertSound 1 300
     
     Show
     BaseType "Splinter of Esh" "Blessing of Esh"
@@ -474,6 +482,7 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 0 0 180
     SetBackgroundColor 0 40 100
+PlayAlertSound 1 300
     
     Show
     BaseType "Splinter of Uul-Netol" "Blessing of Uul-Netol"
@@ -481,6 +490,7 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 0 0 0
     SetBackgroundColor 60 60 60
+PlayAlertSound 1 300
     
     Show
     BaseType "Splinter of Chayula" "Blessing of Chayula"
@@ -488,8 +498,9 @@ Show
     SetTextColor 0 220 20
     SetBorderColor 120 0 120
     SetBackgroundColor 80 0 120
+PlayAlertSound 1 300
 
-##BREACH##
+##END BREACH##
 
 Show
 	BaseType "Regal Orb"
@@ -23300,18 +23311,18 @@ Show # Strict (Change Show to Hide if you only want top tier items shown)
 	Class Ring Belt Amulet Quiver
 	Rarity Rare
 	ItemLevel >= 75
-	SetFontSize 29
+	SetFontSize 34
 	SetBorderColor 250 40 210
-	SetBackgroundColor 0 0 40
+	SetBackgroundColor 0 0 120
 
 Show # Strict (Change Show to Hide if you only want top tier items shown)
 	Class Ring Belt Amulet Quiver
 	Rarity Rare
 	ItemLevel >= 60
 	ItemLevel <= 74
-	SetFontSize 29
+	SetFontSize 34
 	SetBorderColor 240 230 30
-	SetBackgroundColor 0 0 40
+	SetBackgroundColor 0 0 120
 
 Show # Strict (Change Show to Hide if you only want top tier items shown)
 	Rarity Rare
