@@ -1,6 +1,6 @@
 ###Welcome to The Unreasonably Large Item Filter (TULIF), enjoy your stay (if you're scrolling through, it'll be a while). Feel free to change anything as you wish, but good luck with a comprehensive alteration (you'd be better off asking me to change it officially than doing it yourself). Please ask me (SpacetimeDensityModi on Reddit or in the Filter's thread at https://www.pathofexile.com/forum/view-thread/1715657) if you want to use parts of the filter. :D ###
 
-##12/12/2016###
+##12/22/2016###
 
 ### If you do not know how to install an Item Filter for Path of Exile (PoE): 
 
